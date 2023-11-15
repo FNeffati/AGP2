@@ -6,6 +6,8 @@ from pathlib import Path
 # change file path to your local device
 file_path_route = '/Users/yuhanburgess/Documents/GitHub/AGP2/routes.csv'
 file_path_airport = '/Users/yuhanburgess/Documents/GitHub/AGP2/airports.csv'
+file_path_airlines = '/Users/yuhanburgess/Documents/GitHub/AGP2/airlines.csv'
+
 
 # setting up a pandas df for both csv file
 df_route = pd.read_csv(file_path_route)
@@ -15,7 +17,7 @@ df_airport = pd.read_csv(file_path_airport)
 # Codeshare = NA
 # Stops = 0
 df_route = df_route.drop(columns=['Codeshare', 'Stops'])
-# subsetting airport dataframes
+# subset airport dataframes
 df_airport = df_airport[['Name', 'City', 'Country', 'IATA']]
 
 # Merge the DataFrames based on source airport IATA code
@@ -48,8 +50,8 @@ viable_df = df_route[df_route["Source City"].str.contains("New York") |
 pd.set_option('display.max_columns', None)
 print(viable_df)
 
-# creates a csv file that allows you to look at new df
-# change file path to your local device
-filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/viable_df.csv')
-filepath.parent.mkdir(parents=True, exist_ok=True)
-viable_df.to_csv(filepath)
+# # creates a csv file that allows you to look at new df
+# # change file path to your local device
+# filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/viable_df.csv')
+# filepath.parent.mkdir(parents=True, exist_ok=True)
+# viable_df.to_csv(filepath)
