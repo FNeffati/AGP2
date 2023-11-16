@@ -73,12 +73,6 @@ viable_df = df_merged_flights[df_merged_flights["Src City"].str.contains("New Yo
 # pd.set_option('display.max_columns', None)
 # print(viable_df)
 
-
-# Creates a csv file to look at the df_merged_airline dataframe
-filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
-filepath.parent.mkdir(parents=True, exist_ok=True)
-viable_df.to_csv(filepath)
-
 # Splits up entry/row if it has more than one equipment value
 # that can be used in further analysis
 
@@ -128,6 +122,11 @@ direct_df = viable_df[viable_df["Src City"].str.contains("New York") &
 # Display the result
 # pd.set_option('display.max_columns', None)
 print(direct_df)
+
+# Creates a csv file to look at the df_merged_airline dataframe
+filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
+filepath.parent.mkdir(parents=True, exist_ok=True)
+viable_df.to_csv(filepath)
 
 # # Creates a csv file to look at the direct flight dataframe (direct_df) when equipment is split up
 # filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/split.equip.csv')
