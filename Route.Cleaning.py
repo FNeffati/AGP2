@@ -22,7 +22,8 @@ df_airlines = df_airlines.rename(columns={'IATA': 'Airline IATA'})
 # Stops = 0
 df_route = df_route.drop(columns=['Codeshare', 'Stops'])
 # subset airport dataframes
-df_airport = df_airport[['Name', 'City', 'Country', 'IATA']]
+# df_airport = df_airport.drop(columns=['Codeshare', 'Stops'])
+# df_airport = df_airport[['Name', 'City', 'Country', 'IATA']]
 
 # Creating a copy of the original 'Airline' column
 df_route['Original Airline'] = df_route['Airline'].copy()
@@ -37,6 +38,13 @@ df_merged_source = pd.merge(df_route, df_airport,
 df_merged_source = df_merged_source.rename(columns={'City': 'Src City',
                                                     'Name': 'Src Name',
                                                     'Country': 'Src Country',
+                                                    'ICAO': 'Src ICAO',
+                                                    'Latitude': 'Src Latitude',
+                                                    'Longitude': 'Src Longitude',
+                                                    'Altitude': 'Src Altitude',
+                                                    'Timezone': 'Src Timezone',
+                                                    'Timezone.1': 'Src Timezone Name',
+                                                    'DST': 'Src DST',
                                                     'IATA': 'Src IATA'})
 # pd.set_option('display.max_columns', None)
 # print(df_merged_source)
@@ -50,6 +58,13 @@ df_merged_destination = pd.merge(df_merged_source, df_airport,
 df_merged_destination = df_merged_destination.rename(columns={'City': 'Dest City',
                                                               'Name': 'Dest Name',
                                                               'Country': 'Dest Country',
+                                                              'ICAO': 'Dest ICAO',
+                                                              'Latitude': 'Dest Latitude',
+                                                              'Longitude': 'Dest Longitude',
+                                                              'Altitude': 'Dest Altitude',
+                                                              'Timezone': 'Dest Timezone',
+                                                              'Timezone.1': 'Dest Timezone Name',
+                                                              'DST': 'Dest DST',
                                                               'IATA': 'Dest IATA'})
 # pd.set_option('display.max_columns', None)
 # print(df_merged_destination)
@@ -99,9 +114,16 @@ for index, row in multiple_equip.iterrows():
             'Destination Airport ID': row['Destination Airport ID'],
             'Equipment': equipment_value, 'Src Name': row['Src Name'],
             'Src City': row['Src City'], 'Src Country': row['Src Country'],
-            'Dest Name': row['Dest Name'], 'Dest City': row['Dest City'],
-            'Dest Country': row['Dest Country'],
-            'Aircraft Name': row['Aircraft Name'], 'Callsign': row['Callsign']
+            'Src ICAO': row['Src ICAO'], 'Src Latitude': row['Src Latitude'],
+            'Src Longitude': row['Src Longitude'], 'Src Altitude': row['Src Altitude'],
+            'Src Timezone': row['Src Timezone'],'Src DST': row['Src DST'],
+            'Src Timezone Name': row['Src Timezone Name'],
+            'Dest Name': row['Dest Name'],'Dest City': row['Dest City'],
+            'Dest Country': row['Dest Country'],'Dest ICAO': row['Dest ICAO'],
+            'Dest Latitude': row['Dest Latitude'],'Dest Longitude': row['Dest Longitude'],
+            'Dest Altitude': row['Dest Altitude'],'Dest Timezone': row['Dest Timezone'],
+            'Dest DST': row['Dest DST'],'Dest Timezone Name': row['Dest Timezone Name'],
+            'Aircraft Name': row['Aircraft Name'],'Callsign': row['Callsign']
         }
 
         # Append the new row to the list
@@ -123,7 +145,7 @@ direct_df = viable_df[viable_df["Src City"].str.contains("New York") &
 # pd.set_option('display.max_columns', None)
 print(direct_df)
 
-# Creates a csv file to look at the df_merged_airline dataframe
+# # Creates a csv file to look at the df_merged_airline dataframe
 filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
 filepath.parent.mkdir(parents=True, exist_ok=True)
 viable_df.to_csv(filepath)
