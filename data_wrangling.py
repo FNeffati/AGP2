@@ -131,6 +131,9 @@ df_merged_carrier = pd.merge(df_merged_flights, plane_data,
 
 df_merged_carrier = df_merged_carrier.drop(columns=['Carrier_IATA', 'Carrier_ICAO'])
 
+df_possible_flights = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") |
+                              df_merged_carrier["Dest City"].str.contains("San Francisco")]
+
 # TEST: look at all direct flights
 direct_df = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") &
                               df_merged_carrier["Dest City"].str.contains("San Francisco")]
@@ -141,5 +144,5 @@ print(direct_df)
 # # Creates a csv file to look at the df_merged_airline dataframe
 filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
 filepath.parent.mkdir(parents=True, exist_ok=True)
-df_merged_flights.to_csv(filepath)
+df_possible_flights.to_csv(filepath)
 
