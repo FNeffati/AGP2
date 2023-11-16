@@ -1,0 +1,877 @@
+,Airline,Airline ID,Source Airport,Source Airport ID,Destination Airport,Destination Airport ID,Equipment,Src Name,Src City,Src Country,Dest Name,Dest City,Dest Country,Aircraft Name,Callsign
+1129,4M,3201,JFK,3797,EZE,3988,777,John F Kennedy International Airport,New York,United States,Ministro Pistarini International Airport,Buenos Aires,Argentina,LAN Argentina,LAN AR
+1172,4O,17885,JFK,3797,MEX,1824,320,John F Kennedy International Airport,New York,United States,Licenciado Benito Juarez International Airport,Mexico City,Mexico,Interjet (ABC Aerolineas),INTERJET
+4049,9E,3976,JFK,3797,MSY,3861,CR9,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Pinnacle Airlines,FLAGSHIP
+4052,9E,3976,LGA,3697,MSY,3861,CR9,La Guardia Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Pinnacle Airlines,FLAGSHIP
+5551,AA,24,CLT,3876,SFO,3469,321,Charlotte Douglas International Airport,Charlotte,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+5861,AA,24,DFW,3670,SFO,3469,738 757 763,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6065,AA,24,HKG,3077,SFO,3469,773 744,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6068,AA,24,HND,2359,SFO,3469,787,Tokyo Haneda International Airport,Tokyo,Japan,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6140,AA,24,JFK,3797,AMM,2170,340 330,John F Kennedy International Airport,New York,United States,Queen Alia International Airport,Amman,Jordan,American Airlines,AMERICAN
+6141,AA,24,JFK,3797,ANU,2874,738,John F Kennedy International Airport,New York,United States,V.C. Bird International Airport,Antigua,Antigua and Barbuda,American Airlines,AMERICAN
+6142,AA,24,JFK,3797,AUH,2179,777,John F Kennedy International Airport,New York,United States,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,American Airlines,AMERICAN
+6143,AA,24,JFK,3797,AUS,3673,738,John F Kennedy International Airport,New York,United States,Austin Bergstrom International Airport,Austin,United States,American Airlines,AMERICAN
+6144,AA,24,JFK,3797,BCN,1218,763,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,American Airlines,AMERICAN
+6145,AA,24,JFK,3797,BDA,4069,738,John F Kennedy International Airport,New York,United States,L.F. Wade International International Airport,Bermuda,Bermuda,American Airlines,AMERICAN
+6146,AA,24,JFK,3797,BNA,3690,ER4,John F Kennedy International Airport,New York,United States,Nashville International Airport,Nashville,United States,American Airlines,AMERICAN
+6147,AA,24,JFK,3797,BOS,3448,738,John F Kennedy International Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,American Airlines,AMERICAN
+6148,AA,24,JFK,3797,BWI,3849,ER4,John F Kennedy International Airport,New York,United States,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,American Airlines,AMERICAN
+6149,AA,24,JFK,3797,CCS,2851,757 738,John F Kennedy International Airport,New York,United States,Simón Bolívar International Airport,Caracas,Venezuela,American Airlines,AMERICAN
+6150,AA,24,JFK,3797,CDG,1382,763 757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,American Airlines,AMERICAN
+6151,AA,24,JFK,3797,CLE,3486,ER4,John F Kennedy International Airport,New York,United States,Cleveland Hopkins International Airport,Cleveland,United States,American Airlines,AMERICAN
+6152,AA,24,JFK,3797,CLT,3876,321 319,John F Kennedy International Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,American Airlines,AMERICAN
+6153,AA,24,JFK,3797,CMH,3759,ER4 CR7,John F Kennedy International Airport,New York,United States,John Glenn Columbus International Airport,Columbus,United States,American Airlines,AMERICAN
+6154,AA,24,JFK,3797,CUN,1852,738,John F Kennedy International Airport,New York,United States,Cancún International Airport,Cancun,Mexico,American Airlines,AMERICAN
+6155,AA,24,JFK,3797,CVG,3488,ER4,John F Kennedy International Airport,New York,United States,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,American Airlines,AMERICAN
+6156,AA,24,JFK,3797,DCA,3520,738,John F Kennedy International Airport,New York,United States,Ronald Reagan Washington National Airport,Washington,United States,American Airlines,AMERICAN
+6157,AA,24,JFK,3797,DFW,3670,738 757,John F Kennedy International Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,American Airlines,AMERICAN
+6158,AA,24,JFK,3797,DOH,11051,777,John F Kennedy International Airport,New York,United States,Hamad International Airport,Doha,Qatar,American Airlines,AMERICAN
+6159,AA,24,JFK,3797,DUB,599,757,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,American Airlines,AMERICAN
+6160,AA,24,JFK,3797,DUS,345,330,John F Kennedy International Airport,New York,United States,Düsseldorf Airport,Duesseldorf,Germany,American Airlines,AMERICAN
+6161,AA,24,JFK,3797,EZE,3988,777,John F Kennedy International Airport,New York,United States,Ministro Pistarini International Airport,Buenos Aires,Argentina,American Airlines,AMERICAN
+6162,AA,24,JFK,3797,FCO,1555,763,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,American Airlines,AMERICAN
+6163,AA,24,JFK,3797,GIG,2560,763,John F Kennedy International Airport,New York,United States,Rio Galeão – Tom Jobim International Airport,Rio De Janeiro,Brazil,American Airlines,AMERICAN
+6164,AA,24,JFK,3797,GRU,2564,773 77W 777,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,American Airlines,AMERICAN
+6165,AA,24,JFK,3797,GYE,2673,763,John F Kennedy International Airport,New York,United States,José Joaquín de Olmedo International Airport,Guayaquil,Ecuador,American Airlines,AMERICAN
+6166,AA,24,JFK,3797,HEL,421,330,John F Kennedy International Airport,New York,United States,Helsinki Vantaa Airport,Helsinki,Finland,American Airlines,AMERICAN
+6167,AA,24,JFK,3797,HKG,3077,773,John F Kennedy International Airport,New York,United States,Hong Kong International Airport,Hong Kong,Hong Kong,American Airlines,AMERICAN
+6168,AA,24,JFK,3797,IND,3585,ER4,John F Kennedy International Airport,New York,United States,Indianapolis International Airport,Indianapolis,United States,American Airlines,AMERICAN
+6169,AA,24,JFK,3797,LAS,3877,738,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,American Airlines,AMERICAN
+6170,AA,24,JFK,3797,LAX,3484,32B 762,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,American Airlines,AMERICAN
+6171,AA,24,JFK,3797,LCY,503,318,John F Kennedy International Airport,New York,United States,London City Airport,London,United Kingdom,American Airlines,AMERICAN
+6172,AA,24,JFK,3797,LHR,507,777 77W,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,American Airlines,AMERICAN
+6173,AA,24,JFK,3797,LIM,2789,763,John F Kennedy International Airport,New York,United States,Jorge Chávez International Airport,Lima,Peru,American Airlines,AMERICAN
+6174,AA,24,JFK,3797,MAD,1229,330 757 340,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,American Airlines,AMERICAN
+6175,AA,24,JFK,3797,MAN,478,757,John F Kennedy International Airport,New York,United States,Manchester Airport,Manchester,United Kingdom,American Airlines,AMERICAN
+6176,AA,24,JFK,3797,MCO,3878,763 757,John F Kennedy International Airport,New York,United States,Orlando International Airport,Orlando,United States,American Airlines,AMERICAN
+6177,AA,24,JFK,3797,MIA,3576,757 763 738,John F Kennedy International Airport,New York,United States,Miami International Airport,Miami,United States,American Airlines,AMERICAN
+6178,AA,24,JFK,3797,MXP,1524,763,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,American Airlines,AMERICAN
+6179,AA,24,JFK,3797,NRT,2279,787 773,John F Kennedy International Airport,New York,United States,Narita International Airport,Tokyo,Japan,American Airlines,AMERICAN
+6180,AA,24,JFK,3797,ORD,3830,738,John F Kennedy International Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,American Airlines,AMERICAN
+6181,AA,24,JFK,3797,ORF,3611,ER4,John F Kennedy International Airport,New York,United States,Norfolk International Airport,Norfolk,United States,American Airlines,AMERICAN
+6182,AA,24,JFK,3797,ORY,1386,757,John F Kennedy International Airport,New York,United States,Paris-Orly Airport,Paris,France,American Airlines,AMERICAN
+6183,AA,24,JFK,3797,PAP,1897,763,John F Kennedy International Airport,New York,United States,Toussaint Louverture International Airport,Port-au-prince,Haiti,American Airlines,AMERICAN
+6184,AA,24,JFK,3797,PHX,3462,321,John F Kennedy International Airport,New York,United States,Phoenix Sky Harbor International Airport,Phoenix,United States,American Airlines,AMERICAN
+6185,AA,24,JFK,3797,PIT,3570,ER4,John F Kennedy International Airport,New York,United States,Pittsburgh International Airport,Pittsburgh,United States,American Airlines,AMERICAN
+6186,AA,24,JFK,3797,RDU,3626,ERD CR7,John F Kennedy International Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,American Airlines,AMERICAN
+6187,AA,24,JFK,3797,SAN,3731,738,John F Kennedy International Airport,New York,United States,San Diego International Airport,San Diego,United States,American Airlines,AMERICAN
+6188,AA,24,JFK,3797,SCL,2650,787,John F Kennedy International Airport,New York,United States,Comodoro Arturo Merino Benítez International Airport,Santiago,Chile,American Airlines,AMERICAN
+6189,AA,24,JFK,3797,SEA,3577,738,John F Kennedy International Airport,New York,United States,Seattle Tacoma International Airport,Seattle,United States,American Airlines,AMERICAN
+6190,AA,24,JFK,3797,SFO,3469,32B 763,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6191,AA,24,JFK,3797,SJO,1885,738,John F Kennedy International Airport,New York,United States,Juan Santamaria International Airport,San Jose,Costa Rica,American Airlines,AMERICAN
+6192,AA,24,JFK,3797,SJU,2890,757,John F Kennedy International Airport,New York,United States,Luis Munoz Marin International Airport,San Juan,Puerto Rico,American Airlines,AMERICAN
+6193,AA,24,JFK,3797,STT,2883,757,John F Kennedy International Airport,New York,United States,Cyril E. King Airport,St. Thomas,Virgin Islands,American Airlines,AMERICAN
+6194,AA,24,JFK,3797,SXM,2899,757,John F Kennedy International Airport,New York,United States,Princess Juliana International Airport,Philipsburg,Netherlands Antilles,American Airlines,AMERICAN
+6195,AA,24,JFK,3797,TPA,3646,CR7,John F Kennedy International Airport,New York,United States,Tampa International Airport,Tampa,United States,American Airlines,AMERICAN
+6196,AA,24,JFK,3797,TXL,351,330,John F Kennedy International Airport,New York,United States,Berlin-Tegel Airport,Berlin,Germany,American Airlines,AMERICAN
+6197,AA,24,JFK,3797,YUL,146,ERD,John F Kennedy International Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,American Airlines,AMERICAN
+6198,AA,24,JFK,3797,YYC,178,737,John F Kennedy International Airport,New York,United States,Calgary International Airport,Calgary,Canada,American Airlines,AMERICAN
+6199,AA,24,JFK,3797,YYZ,193,CR7,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,American Airlines,AMERICAN
+6200,AA,24,JFK,3797,ZRH,1678,763,John F Kennedy International Airport,New York,United States,Zürich Airport,Zurich,Switzerland,American Airlines,AMERICAN
+6294,AA,24,LAX,3484,SFO,3469,738,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6316,AA,24,LGA,3697,BNA,3690,CR7,La Guardia Airport,New York,United States,Nashville International Airport,Nashville,United States,American Airlines,AMERICAN
+6317,AA,24,LGA,3697,BOS,3448,319 E90,La Guardia Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,American Airlines,AMERICAN
+6318,AA,24,LGA,3697,CHO,4015,ERD,La Guardia Airport,New York,United States,Charlottesville Albemarle Airport,Charlottesville VA,United States,American Airlines,AMERICAN
+6319,AA,24,LGA,3697,CLT,3876,321 319 320,La Guardia Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,American Airlines,AMERICAN
+6320,AA,24,LGA,3697,CMH,3759,CR7 ERD,La Guardia Airport,New York,United States,John Glenn Columbus International Airport,Columbus,United States,American Airlines,AMERICAN
+6321,AA,24,LGA,3697,DAY,3627,ERD,La Guardia Airport,New York,United States,James M Cox Dayton International Airport,Dayton,United States,American Airlines,AMERICAN
+6322,AA,24,LGA,3697,DCA,3520,319 E90,La Guardia Airport,New York,United States,Ronald Reagan Washington National Airport,Washington,United States,American Airlines,AMERICAN
+6323,AA,24,LGA,3697,DFW,3670,738,La Guardia Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,American Airlines,AMERICAN
+6324,AA,24,LGA,3697,DTW,3645,CR7,La Guardia Airport,New York,United States,Detroit Metropolitan Wayne County Airport,Detroit,United States,American Airlines,AMERICAN
+6325,AA,24,LGA,3697,GSO,4008,ERD,La Guardia Airport,New York,United States,Piedmont Triad International Airport,Greensboro,United States,American Airlines,AMERICAN
+6326,AA,24,LGA,3697,ILM,3845,ERD,La Guardia Airport,New York,United States,Wilmington International Airport,Wilmington,United States,American Airlines,AMERICAN
+6327,AA,24,LGA,3697,LIT,3660,CR7,La Guardia Airport,New York,United States,Bill & Hillary Clinton National Airport/Adams Field,Little Rock,United States,American Airlines,AMERICAN
+6328,AA,24,LGA,3697,MIA,3576,738,La Guardia Airport,New York,United States,Miami International Airport,Miami,United States,American Airlines,AMERICAN
+6329,AA,24,LGA,3697,ORD,3830,738,La Guardia Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,American Airlines,AMERICAN
+6330,AA,24,LGA,3697,ORF,3611,ERD,La Guardia Airport,New York,United States,Norfolk International Airport,Norfolk,United States,American Airlines,AMERICAN
+6331,AA,24,LGA,3697,PBI,3722,738,La Guardia Airport,New York,United States,Palm Beach International Airport,West Palm Beach,United States,American Airlines,AMERICAN
+6332,AA,24,LGA,3697,PHL,3752,E90 DH3 319,La Guardia Airport,New York,United States,Philadelphia International Airport,Philadelphia,United States,American Airlines,AMERICAN
+6333,AA,24,LGA,3697,PIT,3570,CRJ E75,La Guardia Airport,New York,United States,Pittsburgh International Airport,Pittsburgh,United States,American Airlines,AMERICAN
+6334,AA,24,LGA,3697,RDU,3626,ERD CR7,La Guardia Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,American Airlines,AMERICAN
+6335,AA,24,LGA,3697,RIC,3608,ERD,La Guardia Airport,New York,United States,Richmond International Airport,Richmond,United States,American Airlines,AMERICAN
+6336,AA,24,LGA,3697,ROA,4016,ERD,La Guardia Airport,New York,United States,Roanoke–Blacksburg Regional Airport,Roanoke VA,United States,American Airlines,AMERICAN
+6337,AA,24,LGA,3697,SDF,4014,ERD,La Guardia Airport,New York,United States,Louisville International Standiford Field,Louisville,United States,American Airlines,AMERICAN
+6338,AA,24,LGA,3697,STL,3678,CR7,La Guardia Airport,New York,United States,St Louis Lambert International Airport,St. Louis,United States,American Airlines,AMERICAN
+6339,AA,24,LGA,3697,TYS,3676,ERD,La Guardia Airport,New York,United States,McGhee Tyson Airport,Knoxville,United States,American Airlines,AMERICAN
+6340,AA,24,LGA,3697,XNA,4356,CR7,La Guardia Airport,New York,United States,Northwest Arkansas Regional Airport,Bentonville,United States,American Airlines,AMERICAN
+6341,AA,24,LGA,3697,YUL,146,ERD,La Guardia Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,American Airlines,AMERICAN
+6342,AA,24,LGA,3697,YYZ,193,CR7,La Guardia Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,American Airlines,AMERICAN
+6430,AA,24,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6651,AA,24,MIA,3576,SFO,3469,763 757 738,Miami International Airport,Miami,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6876,AA,24,ORD,3830,SFO,3469,738,Chicago O'Hare International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+6934,AA,24,PDX,3720,SFO,3469,DH4 737,Portland International Airport,Portland,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+7047,AA,24,PHL,3752,SFO,3469,320 321,Philadelphia International Airport,Philadelphia,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+7125,AA,24,PHX,3462,SFO,3469,320 321,Phoenix Sky Harbor International Airport,Phoenix,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+7174,AA,24,PSP,3839,SFO,3469,737,Palm Springs International Airport,Palm Springs,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+7192,AA,24,PVR,1836,SFO,3469,737,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+7311,AA,24,SEA,3577,SFO,3469,737,Seattle Tacoma International Airport,Seattle,United States,San Francisco International Airport,San Francisco,United States,American Airlines,AMERICAN
+7910,AB,214,JFK,3797,DUS,345,332,John F Kennedy International Airport,New York,United States,Düsseldorf Airport,Duesseldorf,Germany,Air Berlin,AIR BERLIN
+7911,AB,214,JFK,3797,TXL,351,332,John F Kennedy International Airport,New York,United States,Berlin-Tegel Airport,Berlin,Germany,Air Berlin,AIR BERLIN
+8491,AC,330,JFK,3797,YYZ,193,CRA,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,Air Canada,AIR CANADA
+8506,AC,330,LGA,3697,YOW,100,CRJ,La Guardia Airport,New York,United States,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada,Air Canada,AIR CANADA
+8507,AC,330,LGA,3697,YUL,146,E75,La Guardia Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,Air Canada,AIR CANADA
+8508,AC,330,LGA,3697,YYZ,193,E90 E75,La Guardia Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,Air Canada,AIR CANADA
+8636,AC,330,YEG,49,SFO,3469,CR7,Edmonton International Airport,Edmonton,Canada,San Francisco International Airport,San Francisco,United States,Air Canada,AIR CANADA
+8768,AC,330,YUL,146,SFO,3469,319,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,San Francisco International Airport,San Francisco,United States,Air Canada,AIR CANADA
+8819,AC,330,YVR,156,SFO,3469,E90 320 319,Vancouver International Airport,Vancouver,Canada,San Francisco International Airport,San Francisco,United States,Air Canada,AIR CANADA
+8891,AC,330,YYC,178,SFO,3469,CR7,Calgary International Airport,Calgary,Canada,San Francisco International Airport,San Francisco,United States,Air Canada,AIR CANADA
+8918,AC,330,YYJ,184,SFO,3469,CRJ,Victoria International Airport,Victoria,Canada,San Francisco International Airport,San Francisco,United States,Air Canada,AIR CANADA
+9013,AC,330,YYZ,193,SFO,3469,320,Lester B. Pearson International Airport,Toronto,Canada,San Francisco International Airport,San Francisco,United States,Air Canada,AIR CANADA
+10098,AF,137,ATL,3682,SFO,3469,763 739 757,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,Air France,AIRFRANS
+10341,AF,137,CDG,1382,SFO,3469,388,Charles de Gaulle International Airport,Paris,France,San Francisco International Airport,San Francisco,United States,Air France,AIRFRANS
+10538,AF,137,JFK,3797,ATL,3682,319 738 752,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Air France,AIRFRANS
+10539,AF,137,JFK,3797,BCN,1218,333,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,Air France,AIRFRANS
+10540,AF,137,JFK,3797,BRU,302,76W,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,Air France,AIRFRANS
+10541,AF,137,JFK,3797,CDG,1382,332 772 388 343,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Air France,AIRFRANS
+10542,AF,137,JFK,3797,DUB,599,752,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,Air France,AIRFRANS
+10543,AF,137,JFK,3797,FRA,340,76W,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Air France,AIRFRANS
+10544,AF,137,JFK,3797,LHR,507,764 76W,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Air France,AIRFRANS
+10545,AF,137,JFK,3797,MAD,1229,764,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,Air France,AIRFRANS
+10546,AF,137,JFK,3797,MSY,3861,CR9,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Air France,AIRFRANS
+10547,AF,137,JFK,3797,NCE,1354,764,John F Kennedy International Airport,New York,United States,Nice-Côte d'Azur Airport,Nice,France,Air France,AIRFRANS
+10548,AF,137,JFK,3797,PAP,1897,738,John F Kennedy International Airport,New York,United States,Toussaint Louverture International Airport,Port-au-prince,Haiti,Air France,AIRFRANS
+10590,AF,137,LGA,3697,ATL,3682,M88 757,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Air France,AIRFRANS
+10714,AF,137,MSP,3858,SFO,3469,753,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,San Francisco International Airport,San Francisco,United States,Air France,AIRFRANS
+11440,AI,218,HKG,3077,SFO,3469,77W,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,Air India Limited,AIRINDIA
+11457,AI,218,ICN,3930,SFO,3469,77W,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Air India Limited,AIRINDIA
+11499,AI,218,JFK,3797,DEL,3093,77W,John F Kennedy International Airport,New York,United States,Indira Gandhi International Airport,Delhi,India,Air India Limited,AIRINDIA
+11500,AI,218,JFK,3797,LHR,507,772,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Air India Limited,AIRINDIA
+11845,AM,321,BJX,1815,SFO,3469,738,Del Bajío International Airport,Del Bajio,Mexico,San Francisco International Airport,San Francisco,United States,AeroMéxico,AEROMEXICO
+11928,AM,321,GDL,1804,SFO,3469,738,Don Miguel Hidalgo Y Costilla International Airport,Guadalajara,Mexico,San Francisco International Airport,San Francisco,United States,AeroMéxico,AEROMEXICO
+11959,AM,321,JFK,3797,ATL,3682,752 319 757 738,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,AeroMéxico,AEROMEXICO
+11960,AM,321,JFK,3797,CUN,1852,738,John F Kennedy International Airport,New York,United States,Cancún International Airport,Cancun,Mexico,AeroMéxico,AEROMEXICO
+11961,AM,321,JFK,3797,MEX,1824,738 787,John F Kennedy International Airport,New York,United States,Licenciado Benito Juarez International Airport,Mexico City,Mexico,AeroMéxico,AEROMEXICO
+11976,AM,321,LGA,3697,ATL,3682,M88 757 738,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,AeroMéxico,AEROMEXICO
+12057,AM,321,MEX,1824,SFO,3469,737,Licenciado Benito Juarez International Airport,Mexico City,Mexico,San Francisco International Airport,San Francisco,United States,AeroMéxico,AEROMEXICO
+12083,AM,321,MLM,1821,SFO,3469,738,General Francisco J. Mujica International Airport,Morelia,Mexico,San Francisco International Airport,San Francisco,United States,AeroMéxico,AEROMEXICO
+12141,AM,321,PVR,1836,SFO,3469,73J 739,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,San Francisco International Airport,San Francisco,United States,AeroMéxico,AEROMEXICO
+12169,AM,321,SJD,1840,SFO,3469,734,Los Cabos International Airport,San Jose Del Cabo,Mexico,San Francisco International Airport,San Francisco,United States,AeroMéxico,AEROMEXICO
+12506,AR,412,JFK,3797,EZE,3988,330,John F Kennedy International Airport,New York,United States,Ministro Pistarini International Airport,Buenos Aires,Argentina,Aerolineas Argentinas,ARGENTINA
+12660,AS,439,DFW,3670,SFO,3469,738 757 763,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12705,AS,439,JFK,3797,LAX,3484,321 762,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,Alaska Airlines, Inc.
+12706,AS,439,JFK,3797,SAN,3731,757 73H,John F Kennedy International Airport,New York,United States,San Diego International Airport,San Diego,United States,Alaska Airlines, Inc.
+12707,AS,439,JFK,3797,SEA,3577,738,John F Kennedy International Airport,New York,United States,Seattle Tacoma International Airport,Seattle,United States,Alaska Airlines, Inc.
+12708,AS,439,JFK,3797,SFO,3469,321 763,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12769,AS,439,LAX,3484,SFO,3469,738,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12802,AS,439,MIA,3576,SFO,3469,763 757 738,Miami International Airport,Miami,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12840,AS,439,ORD,3830,SFO,3469,738,Chicago O'Hare International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12877,AS,439,PDX,3720,SFO,3469,734 73G,Portland International Airport,Portland,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12898,AS,439,PSP,3839,SFO,3469,734,Palm Springs International Airport,Palm Springs,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12904,AS,439,PVR,1836,SFO,3469,73J 739,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+12998,AS,439,SEA,3577,SFO,3469,73J 734 73G 73H 739,Seattle Tacoma International Airport,Seattle,United States,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+13037,AS,439,SJD,1840,SFO,3469,734,Los Cabos International Airport,San Jose Del Cabo,Mexico,San Francisco International Airport,San Francisco,United States,Alaska Airlines, Inc.
+13218,AT,4248,JFK,3797,CMN,1074,763,John F Kennedy International Airport,New York,United States,Mohammed V International Airport,Casablanca,Morocco,Royal Air Maroc,ROYALAIR MAROC
+13461,AV,515,JFK,3797,BOG,2709,319 330,John F Kennedy International Airport,New York,United States,El Dorado International Airport,Bogota,Colombia,Avianca - Aerovias Nacionales de Colombia, S.A.
+13462,AV,515,JFK,3797,MDE,2745,319,John F Kennedy International Airport,New York,United States,Jose Maria Córdova International Airport,Rio Negro,Colombia,Avianca - Aerovias Nacionales de Colombia, S.A.
+13463,AV,515,JFK,3797,SAL,1892,320 321,John F Kennedy International Airport,New York,United States,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,Avianca - Aerovias Nacionales de Colombia, S.A.
+13464,AV,515,JFK,3797,SAP,1772,320,John F Kennedy International Airport,New York,United States,Ramón Villeda Morales International Airport,San Pedro Sula,Honduras,Avianca - Aerovias Nacionales de Colombia, S.A.
+13564,AV,515,SAL,1892,SFO,3469,319 320,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,San Francisco International Airport,San Francisco,United States,Avianca - Aerovias Nacionales de Colombia, S.A.
+13786,AY,2350,JFK,3797,BCN,1218,763,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,Finnair,FINNAIR
+13787,AY,2350,JFK,3797,CDG,1382,763 757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Finnair,FINNAIR
+13788,AY,2350,JFK,3797,DUB,599,757,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,Finnair,FINNAIR
+13789,AY,2350,JFK,3797,FCO,1555,763,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,Finnair,FINNAIR
+13790,AY,2350,JFK,3797,HEL,421,333,John F Kennedy International Airport,New York,United States,Helsinki Vantaa Airport,Helsinki,Finland,Finnair,FINNAIR
+13791,AY,2350,JFK,3797,LCY,503,318,John F Kennedy International Airport,New York,United States,London City Airport,London,United Kingdom,Finnair,FINNAIR
+13792,AY,2350,JFK,3797,LHR,507,744 77W 777,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Finnair,FINNAIR
+13793,AY,2350,JFK,3797,MAD,1229,333 757 346,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,Finnair,FINNAIR
+13794,AY,2350,JFK,3797,MAN,478,757,John F Kennedy International Airport,New York,United States,Manchester Airport,Manchester,United Kingdom,Finnair,FINNAIR
+13795,AY,2350,JFK,3797,MXP,1524,763,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,Finnair,FINNAIR
+13796,AY,2350,JFK,3797,SJU,2890,757,John F Kennedy International Airport,New York,United States,Luis Munoz Marin International Airport,San Juan,Puerto Rico,Finnair,FINNAIR
+13797,AY,2350,JFK,3797,YUL,146,ERD,John F Kennedy International Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,Finnair,FINNAIR
+13798,AY,2350,JFK,3797,YYZ,193,CR7,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,Finnair,FINNAIR
+13841,AY,2350,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Finnair,FINNAIR
+14232,AZ,596,CDG,1382,SFO,3469,388,Charles de Gaulle International Airport,Paris,France,San Francisco International Airport,San Francisco,United States,Alitalia,ALITALIA
+14465,AZ,596,JFK,3797,ATL,3682,752 319 M88 738,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Alitalia,ALITALIA
+14466,AZ,596,JFK,3797,CDG,1382,332 388 772 343,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Alitalia,ALITALIA
+14467,AZ,596,JFK,3797,FCO,1555,772 330,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,Alitalia,ALITALIA
+14468,AZ,596,JFK,3797,MEX,1824,738,John F Kennedy International Airport,New York,United States,Licenciado Benito Juarez International Airport,Mexico City,Mexico,Alitalia,ALITALIA
+14469,AZ,596,JFK,3797,MSY,3861,CR9,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Alitalia,ALITALIA
+14470,AZ,596,JFK,3797,MXP,1524,330,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,Alitalia,ALITALIA
+14471,AZ,596,JFK,3797,VCE,1551,764,John F Kennedy International Airport,New York,United States,Venice Marco Polo Airport,Venice,Italy,Alitalia,ALITALIA
+14472,AZ,596,JFK,3797,YUL,146,ERJ,John F Kennedy International Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,Alitalia,ALITALIA
+14473,AZ,596,JFK,3797,YYZ,193,CR7,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,Alitalia,ALITALIA
+14948,B6,3029,AUS,3673,SFO,3469,320,Austin Bergstrom International Airport,Austin,United States,San Francisco International Airport,San Francisco,United States,JetBlue Airways,JETBLUE
+14998,B6,3029,BOS,3448,SFO,3469,320,General Edward Lawrence Logan International Airport,Boston,United States,San Francisco International Airport,San Francisco,United States,JetBlue Airways,JETBLUE
+15040,B6,3029,DXB,2188,SFO,3469,77W,Dubai International Airport,Dubai,United Arab Emirates,San Francisco International Airport,San Francisco,United States,JetBlue Airways,JETBLUE
+15073,B6,3029,FLL,3533,SFO,3469,320,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,San Francisco International Airport,San Francisco,United States,JetBlue Airways,JETBLUE
+15093,B6,3029,JFK,3797,ABQ,4019,320,John F Kennedy International Airport,New York,United States,Albuquerque International Sunport,Albuquerque,United States,JetBlue Airways,JETBLUE
+15094,B6,3029,JFK,3797,AUA,2895,320,John F Kennedy International Airport,New York,United States,Queen Beatrix International Airport,Oranjestad,Aruba,JetBlue Airways,JETBLUE
+15095,B6,3029,JFK,3797,AUS,3673,320,John F Kennedy International Airport,New York,United States,Austin Bergstrom International Airport,Austin,United States,JetBlue Airways,JETBLUE
+15096,B6,3029,JFK,3797,AZS,5810,320,John F Kennedy International Airport,New York,United States,Samaná El Catey International Airport,Samana,Dominican Republic,JetBlue Airways,JETBLUE
+15097,B6,3029,JFK,3797,BDA,4069,320,John F Kennedy International Airport,New York,United States,L.F. Wade International International Airport,Bermuda,Bermuda,JetBlue Airways,JETBLUE
+15098,B6,3029,JFK,3797,BGI,2875,321,John F Kennedy International Airport,New York,United States,Sir Grantley Adams International Airport,Bridgetown,Barbados,JetBlue Airways,JETBLUE
+15099,B6,3029,JFK,3797,BOS,3448,E90 320,John F Kennedy International Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,JetBlue Airways,JETBLUE
+15100,B6,3029,JFK,3797,BQN,2885,320,John F Kennedy International Airport,New York,United States,Rafael Hernandez Airport,Aguadilla,Puerto Rico,JetBlue Airways,JETBLUE
+15101,B6,3029,JFK,3797,BTV,3711,E90,John F Kennedy International Airport,New York,United States,Burlington International Airport,Burlington,United States,JetBlue Airways,JETBLUE
+15102,B6,3029,JFK,3797,BUF,3820,E90 320,John F Kennedy International Airport,New York,United States,Buffalo Niagara International Airport,Buffalo,United States,JetBlue Airways,JETBLUE
+15103,B6,3029,JFK,3797,BUR,3644,320,John F Kennedy International Airport,New York,United States,Bob Hope Airport,Burbank,United States,JetBlue Airways,JETBLUE
+15104,B6,3029,JFK,3797,CHS,3806,320,John F Kennedy International Airport,New York,United States,Charleston Air Force Base-International Airport,Charleston,United States,JetBlue Airways,JETBLUE
+15105,B6,3029,JFK,3797,CLT,3876,E90,John F Kennedy International Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,JetBlue Airways,JETBLUE
+15106,B6,3029,JFK,3797,CTG,2714,320,John F Kennedy International Airport,New York,United States,Rafael Nuñez International Airport,Cartagena,Colombia,JetBlue Airways,JETBLUE
+15107,B6,3029,JFK,3797,CUN,1852,320,John F Kennedy International Airport,New York,United States,Cancún International Airport,Cancun,Mexico,JetBlue Airways,JETBLUE
+15108,B6,3029,JFK,3797,DEN,3751,320,John F Kennedy International Airport,New York,United States,Denver International Airport,Denver,United States,JetBlue Airways,JETBLUE
+15109,B6,3029,JFK,3797,DXB,2188,388,John F Kennedy International Airport,New York,United States,Dubai International Airport,Dubai,United Arab Emirates,JetBlue Airways,JETBLUE
+15110,B6,3029,JFK,3797,FLL,3533,320 E90,John F Kennedy International Airport,New York,United States,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,JetBlue Airways,JETBLUE
+15111,B6,3029,JFK,3797,GCM,1926,320,John F Kennedy International Airport,New York,United States,Owen Roberts International Airport,Georgetown,Cayman Islands,JetBlue Airways,JETBLUE
+15112,B6,3029,JFK,3797,HOU,3566,E90,John F Kennedy International Airport,New York,United States,William P Hobby Airport,Houston,United States,JetBlue Airways,JETBLUE
+15113,B6,3029,JFK,3797,IAD,3714,E90,John F Kennedy International Airport,New York,United States,Washington Dulles International Airport,Washington,United States,JetBlue Airways,JETBLUE
+15114,B6,3029,JFK,3797,JAX,3712,320,John F Kennedy International Airport,New York,United States,Jacksonville International Airport,Jacksonville,United States,JetBlue Airways,JETBLUE
+15115,B6,3029,JFK,3797,JNB,813,346,John F Kennedy International Airport,New York,United States,OR Tambo International Airport,Johannesburg,South Africa,JetBlue Airways,JETBLUE
+15116,B6,3029,JFK,3797,KIN,1779,320,John F Kennedy International Airport,New York,United States,Norman Manley International Airport,Kingston,Jamaica,JetBlue Airways,JETBLUE
+15117,B6,3029,JFK,3797,LAS,3877,320,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,JetBlue Airways,JETBLUE
+15118,B6,3029,JFK,3797,LAX,3484,320,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,JetBlue Airways,JETBLUE
+15119,B6,3029,JFK,3797,LGB,3582,320,John F Kennedy International Airport,New York,United States,Long Beach /Daugherty Field/ Airport,Long Beach,United States,JetBlue Airways,JETBLUE
+15120,B6,3029,JFK,3797,LIR,1881,320,John F Kennedy International Airport,New York,United States,Daniel Oduber Quiros International Airport,Liberia,Costa Rica,JetBlue Airways,JETBLUE
+15121,B6,3029,JFK,3797,LRM,1759,320,John F Kennedy International Airport,New York,United States,Casa De Campo International Airport,La Romana,Dominican Republic,JetBlue Airways,JETBLUE
+15122,B6,3029,JFK,3797,MBJ,1780,320,John F Kennedy International Airport,New York,United States,Sangster International Airport,Montego Bay,Jamaica,JetBlue Airways,JETBLUE
+15123,B6,3029,JFK,3797,MCO,3878,320 E90,John F Kennedy International Airport,New York,United States,Orlando International Airport,Orlando,United States,JetBlue Airways,JETBLUE
+15124,B6,3029,JFK,3797,MSY,3861,E90 320,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,JetBlue Airways,JETBLUE
+15125,B6,3029,JFK,3797,MXP,1524,77W,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,JetBlue Airways,JETBLUE
+15126,B6,3029,JFK,3797,NAS,1953,320 E90,John F Kennedy International Airport,New York,United States,Lynden Pindling International Airport,Nassau,Bahamas,JetBlue Airways,JETBLUE
+15127,B6,3029,JFK,3797,OAK,3453,320,John F Kennedy International Airport,New York,United States,Metropolitan Oakland International Airport,Oakland,United States,JetBlue Airways,JETBLUE
+15128,B6,3029,JFK,3797,ORD,3830,320 E90,John F Kennedy International Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,JetBlue Airways,JETBLUE
+15129,B6,3029,JFK,3797,PAP,1897,320,John F Kennedy International Airport,New York,United States,Toussaint Louverture International Airport,Port-au-prince,Haiti,JetBlue Airways,JETBLUE
+15130,B6,3029,JFK,3797,PBI,3722,E90 320,John F Kennedy International Airport,New York,United States,Palm Beach International Airport,West Palm Beach,United States,JetBlue Airways,JETBLUE
+15131,B6,3029,JFK,3797,PDX,3720,320,John F Kennedy International Airport,New York,United States,Portland International Airport,Portland,United States,JetBlue Airways,JETBLUE
+15132,B6,3029,JFK,3797,PHX,3462,320,John F Kennedy International Airport,New York,United States,Phoenix Sky Harbor International Airport,Phoenix,United States,JetBlue Airways,JETBLUE
+15133,B6,3029,JFK,3797,PLS,1754,320,John F Kennedy International Airport,New York,United States,Providenciales Airport,Providenciales,Turks and Caicos Islands,JetBlue Airways,JETBLUE
+15134,B6,3029,JFK,3797,POP,1761,320,John F Kennedy International Airport,New York,United States,Gregorio Luperon International Airport,Puerto Plata,Dominican Republic,JetBlue Airways,JETBLUE
+15135,B6,3029,JFK,3797,POS,2902,320,John F Kennedy International Airport,New York,United States,Piarco International Airport,Port-of-spain,Trinidad and Tobago,JetBlue Airways,JETBLUE
+15136,B6,3029,JFK,3797,PSE,2889,320,John F Kennedy International Airport,New York,United States,Mercedita Airport,Ponce,Puerto Rico,JetBlue Airways,JETBLUE
+15137,B6,3029,JFK,3797,PUJ,1760,321 320,John F Kennedy International Airport,New York,United States,Punta Cana International Airport,Punta Cana,Dominican Republic,JetBlue Airways,JETBLUE
+15138,B6,3029,JFK,3797,PWM,3862,E90,John F Kennedy International Airport,New York,United States,Portland International Jetport Airport,Portland,United States,JetBlue Airways,JETBLUE
+15139,B6,3029,JFK,3797,RDU,3626,E90,John F Kennedy International Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,JetBlue Airways,JETBLUE
+15140,B6,3029,JFK,3797,ROC,3622,E90,John F Kennedy International Airport,New York,United States,Greater Rochester International Airport,Rochester,United States,JetBlue Airways,JETBLUE
+15141,B6,3029,JFK,3797,RSW,3793,320,John F Kennedy International Airport,New York,United States,Southwest Florida International Airport,Fort Myers,United States,JetBlue Airways,JETBLUE
+15142,B6,3029,JFK,3797,SAN,3731,320,John F Kennedy International Airport,New York,United States,San Diego International Airport,San Diego,United States,JetBlue Airways,JETBLUE
+15143,B6,3029,JFK,3797,SAV,3613,320,John F Kennedy International Airport,New York,United States,Savannah Hilton Head International Airport,Savannah,United States,JetBlue Airways,JETBLUE
+15144,B6,3029,JFK,3797,SDQ,1762,321 320,John F Kennedy International Airport,New York,United States,Las Américas International Airport,Santo Domingo,Dominican Republic,JetBlue Airways,JETBLUE
+15145,B6,3029,JFK,3797,SEA,3577,320,John F Kennedy International Airport,New York,United States,Seattle Tacoma International Airport,Seattle,United States,JetBlue Airways,JETBLUE
+15146,B6,3029,JFK,3797,SFO,3469,320,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,JetBlue Airways,JETBLUE
+15147,B6,3029,JFK,3797,SJC,3748,320,John F Kennedy International Airport,New York,United States,Norman Y. Mineta San Jose International Airport,San Jose,United States,JetBlue Airways,JETBLUE
+15148,B6,3029,JFK,3797,SJU,2890,320,John F Kennedy International Airport,New York,United States,Luis Munoz Marin International Airport,San Juan,Puerto Rico,JetBlue Airways,JETBLUE
+15149,B6,3029,JFK,3797,SLC,3536,320,John F Kennedy International Airport,New York,United States,Salt Lake City International Airport,Salt Lake City,United States,JetBlue Airways,JETBLUE
+15150,B6,3029,JFK,3797,SMF,3817,320,John F Kennedy International Airport,New York,United States,Sacramento International Airport,Sacramento,United States,JetBlue Airways,JETBLUE
+15151,B6,3029,JFK,3797,SRQ,4067,E90,John F Kennedy International Airport,New York,United States,Sarasota Bradenton International Airport,Sarasota,United States,JetBlue Airways,JETBLUE
+15152,B6,3029,JFK,3797,STI,1764,320 321,John F Kennedy International Airport,New York,United States,Cibao International Airport,Santiago,Dominican Republic,JetBlue Airways,JETBLUE
+15153,B6,3029,JFK,3797,SXM,2899,320,John F Kennedy International Airport,New York,United States,Princess Juliana International Airport,Philipsburg,Netherlands Antilles,JetBlue Airways,JETBLUE
+15154,B6,3029,JFK,3797,SYR,3745,E90,John F Kennedy International Airport,New York,United States,Syracuse Hancock International Airport,Syracuse,United States,JetBlue Airways,JETBLUE
+15155,B6,3029,JFK,3797,TPA,3646,320 E90,John F Kennedy International Airport,New York,United States,Tampa International Airport,Tampa,United States,JetBlue Airways,JETBLUE
+15156,B6,3029,JFK,3797,UVF,2894,320,John F Kennedy International Airport,New York,United States,Hewanorra International Airport,Hewandorra,Saint Lucia,JetBlue Airways,JETBLUE
+15167,B6,3029,LGA,3697,FLL,3533,320,La Guardia Airport,New York,United States,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,JetBlue Airways,JETBLUE
+15168,B6,3029,LGA,3697,MCO,3878,320,La Guardia Airport,New York,United States,Orlando International Airport,Orlando,United States,JetBlue Airways,JETBLUE
+15169,B6,3029,LGA,3697,PBI,3722,320 E90,La Guardia Airport,New York,United States,Palm Beach International Airport,West Palm Beach,United States,JetBlue Airways,JETBLUE
+15170,B6,3029,LGA,3697,RSW,3793,320,La Guardia Airport,New York,United States,Southwest Florida International Airport,Fort Myers,United States,JetBlue Airways,JETBLUE
+15171,B6,3029,LGA,3697,SRQ,4067,320,La Guardia Airport,New York,United States,Sarasota Bradenton International Airport,Sarasota,United States,JetBlue Airways,JETBLUE
+15172,B6,3029,LGA,3697,TPA,3646,320,La Guardia Airport,New York,United States,Tampa International Airport,Tampa,United States,JetBlue Airways,JETBLUE
+15181,B6,3029,LGB,3582,SFO,3469,320,Long Beach /Daugherty Field/ Airport,Long Beach,United States,San Francisco International Airport,San Francisco,United States,JetBlue Airways,JETBLUE
+15608,BA,1355,JFK,3797,BCN,1218,763,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,British Airways,SPEEDBIRD
+15609,BA,1355,JFK,3797,CDG,1382,763 757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,British Airways,SPEEDBIRD
+15610,BA,1355,JFK,3797,DUB,599,757,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,British Airways,SPEEDBIRD
+15611,BA,1355,JFK,3797,FCO,1555,763,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,British Airways,SPEEDBIRD
+15612,BA,1355,JFK,3797,HEL,421,333,John F Kennedy International Airport,New York,United States,Helsinki Vantaa Airport,Helsinki,Finland,British Airways,SPEEDBIRD
+15613,BA,1355,JFK,3797,LCY,503,318,John F Kennedy International Airport,New York,United States,London City Airport,London,United Kingdom,British Airways,SPEEDBIRD
+15614,BA,1355,JFK,3797,LHR,507,777 744,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,British Airways,SPEEDBIRD
+15615,BA,1355,JFK,3797,MAD,1229,333 757 346,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,British Airways,SPEEDBIRD
+15616,BA,1355,JFK,3797,MAN,478,757,John F Kennedy International Airport,New York,United States,Manchester Airport,Manchester,United Kingdom,British Airways,SPEEDBIRD
+15617,BA,1355,JFK,3797,MXP,1524,763,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,British Airways,SPEEDBIRD
+15618,BA,1355,JFK,3797,ORY,1386,752,John F Kennedy International Airport,New York,United States,Paris-Orly Airport,Paris,France,British Airways,SPEEDBIRD
+15817,BA,1355,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,British Airways,SPEEDBIRD
+16716,BR,2091,JFK,3797,TPE,2276,77W,John F Kennedy International Airport,New York,United States,Taiwan Taoyuan International Airport,Taipei,Taiwan,EVA Air,EVA
+16788,BR,2091,TPE,2276,SFO,3469,77W,Taiwan Taoyuan International Airport,Taipei,Taiwan,San Francisco International Airport,San Francisco,United States,EVA Air,EVA
+17106,BW,1663,JFK,3797,GEO,4304,767,John F Kennedy International Airport,New York,United States,Cheddi Jagan International Airport,Georgetown,Guyana,Caribbean Airlines,CARIBBEAN AIRLINES
+17107,BW,1663,JFK,3797,GND,2882,738,John F Kennedy International Airport,New York,United States,Point Salines International Airport,Point Salines,Grenada,Caribbean Airlines,CARIBBEAN AIRLINES
+17108,BW,1663,JFK,3797,KIN,1779,738,John F Kennedy International Airport,New York,United States,Norman Manley International Airport,Kingston,Jamaica,Caribbean Airlines,CARIBBEAN AIRLINES
+17109,BW,1663,JFK,3797,MBJ,1780,738,John F Kennedy International Airport,New York,United States,Sangster International Airport,Montego Bay,Jamaica,Caribbean Airlines,CARIBBEAN AIRLINES
+17110,BW,1663,JFK,3797,POS,2902,738,John F Kennedy International Airport,New York,United States,Piarco International Airport,Port-of-spain,Trinidad and Tobago,Caribbean Airlines,CARIBBEAN AIRLINES
+17111,BW,1663,JFK,3797,TAB,2901,738,John F Kennedy International Airport,New York,United States,Tobago-Crown Point Airport,Scarborough,Trinidad and Tobago,Caribbean Airlines,CARIBBEAN AIRLINES
+17668,CA,751,JFK,3797,PEK,3364,773,John F Kennedy International Airport,New York,United States,Beijing Capital International Airport,Beijing,China,Air China,AIR CHINA
+17976,CA,751,PEK,3364,SFO,3469,773,Beijing Capital International Airport,Beijing,China,San Francisco International Airport,San Francisco,United States,Air China,AIR CHINA
+18054,CA,751,PVG,3406,SFO,3469,744,Shanghai Pudong International Airport,Shanghai,China,San Francisco International Airport,San Francisco,United States,Air China,AIR CHINA
+18611,CI,1756,ATL,3682,SFO,3469,739 757,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,China Airlines,DYNASTY
+18649,CI,1756,JFK,3797,KIX,3992,744,John F Kennedy International Airport,New York,United States,Kansai International Airport,Osaka,Japan,China Airlines,DYNASTY
+18752,CI,1756,TPE,2276,SFO,3469,744,Taiwan Taoyuan International Airport,Taipei,Taiwan,San Francisco International Airport,San Francisco,United States,China Airlines,DYNASTY
+18836,CM,1889,IAH,3550,SFO,3469,788,George Bush Intercontinental Houston Airport,Houston,United States,San Francisco International Airport,San Francisco,United States,Copa Airlines,COPA
+18838,CM,1889,JFK,3797,PTY,1871,738,John F Kennedy International Airport,New York,United States,Tocumen International Airport,Panama City,Panama,Copa Airlines,COPA
+19176,CX,1680,HKG,3077,SFO,3469,77W 744,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,Cathay Pacific,CATHAY
+19198,CX,1680,JFK,3797,HKG,3077,77W,John F Kennedy International Airport,New York,United States,Hong Kong International Airport,Hong Kong,Hong Kong,Cathay Pacific,CATHAY
+19199,CX,1680,JFK,3797,YVR,156,77W,John F Kennedy International Airport,New York,United States,Vancouver International Airport,Vancouver,Canada,Cathay Pacific,CATHAY
+21343,DL,2009,AMS,580,SFO,3469,747,Amsterdam Airport Schiphol,Amsterdam,Netherlands,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+21532,DL,2009,ATL,3682,SFO,3469,739 757 763,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+21712,DL,2009,CDG,1382,SFO,3469,388,Charles de Gaulle International Airport,Paris,France,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+21810,DL,2009,CVG,3488,SFO,3469,320,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+21988,DL,2009,DTW,3645,SFO,3469,739 763 738,Detroit Metropolitan Wayne County Airport,Detroit,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22136,DL,2009,HNL,3728,SFO,3469,753,Daniel K Inouye International Airport,Honolulu,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22178,DL,2009,ICN,3930,SFO,3469,77W 772,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22214,DL,2009,JFK,3797,ACC,248,76W,John F Kennedy International Airport,New York,United States,Kotoka International Airport,Accra,Ghana,Delta Air Lines,DELTA
+22215,DL,2009,JFK,3797,AMS,580,76W,John F Kennedy International Airport,New York,United States,Amsterdam Airport Schiphol,Amsterdam,Netherlands,Delta Air Lines,DELTA
+22216,DL,2009,JFK,3797,ATL,3682,752 757 319 738 M88 ,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Delta Air Lines,DELTA
+22217,DL,2009,JFK,3797,AUA,2895,73H,John F Kennedy International Airport,New York,United States,Queen Beatrix International Airport,Oranjestad,Aruba,Delta Air Lines,DELTA
+22218,DL,2009,JFK,3797,AUS,3673,319,John F Kennedy International Airport,New York,United States,Austin Bergstrom International Airport,Austin,United States,Delta Air Lines,DELTA
+22219,DL,2009,JFK,3797,BCN,1218,333,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,Delta Air Lines,DELTA
+22220,DL,2009,JFK,3797,BDA,4069,73H,John F Kennedy International Airport,New York,United States,L.F. Wade International International Airport,Bermuda,Bermuda,Delta Air Lines,DELTA
+22221,DL,2009,JFK,3797,BNA,3690,CR9,John F Kennedy International Airport,New York,United States,Nashville International Airport,Nashville,United States,Delta Air Lines,DELTA
+22222,DL,2009,JFK,3797,BOG,2709,73W,John F Kennedy International Airport,New York,United States,El Dorado International Airport,Bogota,Colombia,Delta Air Lines,DELTA
+22223,DL,2009,JFK,3797,BOS,3448,CR9 752 CR7,John F Kennedy International Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,Delta Air Lines,DELTA
+22224,DL,2009,JFK,3797,BRU,302,76W,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,Delta Air Lines,DELTA
+22225,DL,2009,JFK,3797,BUF,3820,CR7 CR9,John F Kennedy International Airport,New York,United States,Buffalo Niagara International Airport,Buffalo,United States,Delta Air Lines,DELTA
+22226,DL,2009,JFK,3797,BWI,3849,ERJ,John F Kennedy International Airport,New York,United States,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,Delta Air Lines,DELTA
+22227,DL,2009,JFK,3797,CDG,1382,332 772 388 343,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Delta Air Lines,DELTA
+22228,DL,2009,JFK,3797,CHS,3806,ERJ CRJ,John F Kennedy International Airport,New York,United States,Charleston Air Force Base-International Airport,Charleston,United States,Delta Air Lines,DELTA
+22229,DL,2009,JFK,3797,CLE,3486,CRJ ERJ,John F Kennedy International Airport,New York,United States,Cleveland Hopkins International Airport,Cleveland,United States,Delta Air Lines,DELTA
+22230,DL,2009,JFK,3797,CLT,3876,ERJ,John F Kennedy International Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,Delta Air Lines,DELTA
+22231,DL,2009,JFK,3797,CMH,3759,ERJ CRJ,John F Kennedy International Airport,New York,United States,John Glenn Columbus International Airport,Columbus,United States,Delta Air Lines,DELTA
+22232,DL,2009,JFK,3797,CUN,1852,738,John F Kennedy International Airport,New York,United States,Cancún International Airport,Cancun,Mexico,Delta Air Lines,DELTA
+22233,DL,2009,JFK,3797,CVG,3488,CR9 CR7,John F Kennedy International Airport,New York,United States,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,Delta Air Lines,DELTA
+22234,DL,2009,JFK,3797,DCA,3520,CR9,John F Kennedy International Airport,New York,United States,Ronald Reagan Washington National Airport,Washington,United States,Delta Air Lines,DELTA
+22235,DL,2009,JFK,3797,DEN,3751,73H,John F Kennedy International Airport,New York,United States,Denver International Airport,Denver,United States,Delta Air Lines,DELTA
+22236,DL,2009,JFK,3797,DFW,3670,CR9,John F Kennedy International Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,Delta Air Lines,DELTA
+22237,DL,2009,JFK,3797,DKR,1084,752,John F Kennedy International Airport,New York,United States,Léopold Sédar Senghor International Airport,Dakar,Senegal,Delta Air Lines,DELTA
+22238,DL,2009,JFK,3797,DTW,3645,M88 CR9 73H 319,John F Kennedy International Airport,New York,United States,Detroit Metropolitan Wayne County Airport,Detroit,United States,Delta Air Lines,DELTA
+22239,DL,2009,JFK,3797,DUB,599,752,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,Delta Air Lines,DELTA
+22240,DL,2009,JFK,3797,FCO,1555,772 333 330,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,Delta Air Lines,DELTA
+22241,DL,2009,JFK,3797,FLL,3533,752 M88 73H 738,John F Kennedy International Airport,New York,United States,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,Delta Air Lines,DELTA
+22242,DL,2009,JFK,3797,FRA,340,76W,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Delta Air Lines,DELTA
+22243,DL,2009,JFK,3797,GND,2882,73H,John F Kennedy International Airport,New York,United States,Point Salines International Airport,Point Salines,Grenada,Delta Air Lines,DELTA
+22244,DL,2009,JFK,3797,GRU,2564,764,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,Delta Air Lines,DELTA
+22245,DL,2009,JFK,3797,GUA,1767,752,John F Kennedy International Airport,New York,United States,La Aurora Airport,Guatemala City,Guatemala,Delta Air Lines,DELTA
+22246,DL,2009,JFK,3797,IAD,3714,CR7 ERJ CRJ,John F Kennedy International Airport,New York,United States,Washington Dulles International Airport,Washington,United States,Delta Air Lines,DELTA
+22247,DL,2009,JFK,3797,ICN,3930,77W 388,John F Kennedy International Airport,New York,United States,Incheon International Airport,Seoul,South Korea,Delta Air Lines,DELTA
+22248,DL,2009,JFK,3797,IND,3585,CR9,John F Kennedy International Airport,New York,United States,Indianapolis International Airport,Indianapolis,United States,Delta Air Lines,DELTA
+22249,DL,2009,JFK,3797,JAX,3712,CR9,John F Kennedy International Airport,New York,United States,Jacksonville International Airport,Jacksonville,United States,Delta Air Lines,DELTA
+22250,DL,2009,JFK,3797,LAS,3877,73H 738 757,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,Delta Air Lines,DELTA
+22251,DL,2009,JFK,3797,LAX,3484,76W 752,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,Delta Air Lines,DELTA
+22252,DL,2009,JFK,3797,LHR,507,764 76W,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Delta Air Lines,DELTA
+22253,DL,2009,JFK,3797,LIR,1881,73H,John F Kennedy International Airport,New York,United States,Daniel Oduber Quiros International Airport,Liberia,Costa Rica,Delta Air Lines,DELTA
+22254,DL,2009,JFK,3797,MAD,1229,764,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,Delta Air Lines,DELTA
+22255,DL,2009,JFK,3797,MBJ,1780,73H,John F Kennedy International Airport,New York,United States,Sangster International Airport,Montego Bay,Jamaica,Delta Air Lines,DELTA
+22256,DL,2009,JFK,3797,MCO,3878,752 73H M88 738,John F Kennedy International Airport,New York,United States,Orlando International Airport,Orlando,United States,Delta Air Lines,DELTA
+22257,DL,2009,JFK,3797,MEX,1824,738 757 787,John F Kennedy International Airport,New York,United States,Licenciado Benito Juarez International Airport,Mexico City,Mexico,Delta Air Lines,DELTA
+22258,DL,2009,JFK,3797,MIA,3576,73H M88 738 319,John F Kennedy International Airport,New York,United States,Miami International Airport,Miami,United States,Delta Air Lines,DELTA
+22259,DL,2009,JFK,3797,MSP,3858,CR9 319 M88,John F Kennedy International Airport,New York,United States,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,Delta Air Lines,DELTA
+22260,DL,2009,JFK,3797,MSY,3861,CR9,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Delta Air Lines,DELTA
+22261,DL,2009,JFK,3797,MXP,1524,764 330,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,Delta Air Lines,DELTA
+22262,DL,2009,JFK,3797,NAS,1953,M88,John F Kennedy International Airport,New York,United States,Lynden Pindling International Airport,Nassau,Bahamas,Delta Air Lines,DELTA
+22263,DL,2009,JFK,3797,NCE,1354,764,John F Kennedy International Airport,New York,United States,Nice-Côte d'Azur Airport,Nice,France,Delta Air Lines,DELTA
+22264,DL,2009,JFK,3797,NRT,2279,744,John F Kennedy International Airport,New York,United States,Narita International Airport,Tokyo,Japan,Delta Air Lines,DELTA
+22265,DL,2009,JFK,3797,ORD,3830,CR9,John F Kennedy International Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,Delta Air Lines,DELTA
+22266,DL,2009,JFK,3797,ORF,3611,ERJ,John F Kennedy International Airport,New York,United States,Norfolk International Airport,Norfolk,United States,Delta Air Lines,DELTA
+22267,DL,2009,JFK,3797,PAP,1897,738,John F Kennedy International Airport,New York,United States,Toussaint Louverture International Airport,Port-au-prince,Haiti,Delta Air Lines,DELTA
+22268,DL,2009,JFK,3797,PDX,3720,752 73H,John F Kennedy International Airport,New York,United States,Portland International Airport,Portland,United States,Delta Air Lines,DELTA
+22269,DL,2009,JFK,3797,PHL,3752,ERJ CRJ 752,John F Kennedy International Airport,New York,United States,Philadelphia International Airport,Philadelphia,United States,Delta Air Lines,DELTA
+22270,DL,2009,JFK,3797,PHX,3462,738 73H,John F Kennedy International Airport,New York,United States,Phoenix Sky Harbor International Airport,Phoenix,United States,Delta Air Lines,DELTA
+22271,DL,2009,JFK,3797,PIT,3570,CR9 752 ERJ,John F Kennedy International Airport,New York,United States,Pittsburgh International Airport,Pittsburgh,United States,Delta Air Lines,DELTA
+22272,DL,2009,JFK,3797,PLS,1754,73H,John F Kennedy International Airport,New York,United States,Providenciales Airport,Providenciales,Turks and Caicos Islands,Delta Air Lines,DELTA
+22273,DL,2009,JFK,3797,PUJ,1760,73H,John F Kennedy International Airport,New York,United States,Punta Cana International Airport,Punta Cana,Dominican Republic,Delta Air Lines,DELTA
+22274,DL,2009,JFK,3797,PVG,3406,346,John F Kennedy International Airport,New York,United States,Shanghai Pudong International Airport,Shanghai,China,Delta Air Lines,DELTA
+22275,DL,2009,JFK,3797,RDU,3626,CR7 CR9,John F Kennedy International Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,Delta Air Lines,DELTA
+22276,DL,2009,JFK,3797,RIC,3608,ERJ CR9,John F Kennedy International Airport,New York,United States,Richmond International Airport,Richmond,United States,Delta Air Lines,DELTA
+22277,DL,2009,JFK,3797,ROC,3622,CRJ ERJ CR9,John F Kennedy International Airport,New York,United States,Greater Rochester International Airport,Rochester,United States,Delta Air Lines,DELTA
+22278,DL,2009,JFK,3797,SAN,3731,757 73H,John F Kennedy International Airport,New York,United States,San Diego International Airport,San Diego,United States,Delta Air Lines,DELTA
+22279,DL,2009,JFK,3797,SAT,3621,73H,John F Kennedy International Airport,New York,United States,San Antonio International Airport,San Antonio,United States,Delta Air Lines,DELTA
+22280,DL,2009,JFK,3797,SAV,3613,CR9 CR7,John F Kennedy International Airport,New York,United States,Savannah Hilton Head International Airport,Savannah,United States,Delta Air Lines,DELTA
+22281,DL,2009,JFK,3797,SDF,4014,CRJ ERJ,John F Kennedy International Airport,New York,United States,Louisville International Standiford Field,Louisville,United States,Delta Air Lines,DELTA
+22282,DL,2009,JFK,3797,SDQ,1762,73H,John F Kennedy International Airport,New York,United States,Las Américas International Airport,Santo Domingo,Dominican Republic,Delta Air Lines,DELTA
+22283,DL,2009,JFK,3797,SEA,3577,752 757,John F Kennedy International Airport,New York,United States,Seattle Tacoma International Airport,Seattle,United States,Delta Air Lines,DELTA
+22284,DL,2009,JFK,3797,SFO,3469,752,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22285,DL,2009,JFK,3797,SJO,1885,757,John F Kennedy International Airport,New York,United States,Juan Santamaria International Airport,San Jose,Costa Rica,Delta Air Lines,DELTA
+22286,DL,2009,JFK,3797,SJU,2890,73H 752 757,John F Kennedy International Airport,New York,United States,Luis Munoz Marin International Airport,San Juan,Puerto Rico,Delta Air Lines,DELTA
+22287,DL,2009,JFK,3797,SLC,3536,757 73H 738 739 752,John F Kennedy International Airport,New York,United States,Salt Lake City International Airport,Salt Lake City,United States,Delta Air Lines,DELTA
+22288,DL,2009,JFK,3797,STI,1764,73H,John F Kennedy International Airport,New York,United States,Cibao International Airport,Santiago,Dominican Republic,Delta Air Lines,DELTA
+22289,DL,2009,JFK,3797,STL,3678,CR7 CR9,John F Kennedy International Airport,New York,United States,St Louis Lambert International Airport,St. Louis,United States,Delta Air Lines,DELTA
+22290,DL,2009,JFK,3797,STT,2883,757,John F Kennedy International Airport,New York,United States,Cyril E. King Airport,St. Thomas,Virgin Islands,Delta Air Lines,DELTA
+22291,DL,2009,JFK,3797,SVO,2985,333 76W 77W,John F Kennedy International Airport,New York,United States,Sheremetyevo International Airport,Moscow,Russia,Delta Air Lines,DELTA
+22292,DL,2009,JFK,3797,SXM,2899,752,John F Kennedy International Airport,New York,United States,Princess Juliana International Airport,Philipsburg,Netherlands Antilles,Delta Air Lines,DELTA
+22293,DL,2009,JFK,3797,SYR,3745,ERJ,John F Kennedy International Airport,New York,United States,Syracuse Hancock International Airport,Syracuse,United States,Delta Air Lines,DELTA
+22294,DL,2009,JFK,3797,TLV,1590,744,John F Kennedy International Airport,New York,United States,Ben Gurion International Airport,Tel-aviv,Israel,Delta Air Lines,DELTA
+22295,DL,2009,JFK,3797,TPA,3646,M88 738 73H,John F Kennedy International Airport,New York,United States,Tampa International Airport,Tampa,United States,Delta Air Lines,DELTA
+22296,DL,2009,JFK,3797,VCE,1551,764,John F Kennedy International Airport,New York,United States,Venice Marco Polo Airport,Venice,Italy,Delta Air Lines,DELTA
+22297,DL,2009,JFK,3797,YUL,146,ERJ CRJ,John F Kennedy International Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,Delta Air Lines,DELTA
+22298,DL,2009,JFK,3797,YYC,178,736,John F Kennedy International Airport,New York,United States,Calgary International Airport,Calgary,Canada,Delta Air Lines,DELTA
+22299,DL,2009,JFK,3797,YYZ,193,CRJ CR7 ERJ,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,Delta Air Lines,DELTA
+22381,DL,2009,LAX,3484,SFO,3469,E75,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22398,DL,2009,LGA,3697,ATL,3682,M88 757 320 738 739 73W,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Delta Air Lines,DELTA
+22399,DL,2009,LGA,3697,AUA,2895,738,La Guardia Airport,New York,United States,Queen Beatrix International Airport,Oranjestad,Aruba,Delta Air Lines,DELTA
+22400,DL,2009,LGA,3697,BGR,3463,CR7,La Guardia Airport,New York,United States,Bangor International Airport,Bangor,United States,Delta Air Lines,DELTA
+22401,DL,2009,LGA,3697,BHM,3811,CR9 CR7,La Guardia Airport,New York,United States,Birmingham-Shuttlesworth International Airport,Birmingham,United States,Delta Air Lines,DELTA
+22402,DL,2009,LGA,3697,BNA,3690,CR7 CR9,La Guardia Airport,New York,United States,Nashville International Airport,Nashville,United States,Delta Air Lines,DELTA
+22403,DL,2009,LGA,3697,BOS,3448,E75,La Guardia Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,Delta Air Lines,DELTA
+22404,DL,2009,LGA,3697,BTV,3711,CR7,La Guardia Airport,New York,United States,Burlington International Airport,Burlington,United States,Delta Air Lines,DELTA
+22405,DL,2009,LGA,3697,BUF,3820,CR7,La Guardia Airport,New York,United States,Buffalo Niagara International Airport,Buffalo,United States,Delta Air Lines,DELTA
+22406,DL,2009,LGA,3697,CAE,3561,CRJ,La Guardia Airport,New York,United States,Columbia Metropolitan Airport,Columbia,United States,Delta Air Lines,DELTA
+22407,DL,2009,LGA,3697,CHO,4015,CR7,La Guardia Airport,New York,United States,Charlottesville Albemarle Airport,Charlottesville VA,United States,Delta Air Lines,DELTA
+22408,DL,2009,LGA,3697,CHS,3806,CR7,La Guardia Airport,New York,United States,Charleston Air Force Base-International Airport,Charleston,United States,Delta Air Lines,DELTA
+22409,DL,2009,LGA,3697,CLE,3486,CR7,La Guardia Airport,New York,United States,Cleveland Hopkins International Airport,Cleveland,United States,Delta Air Lines,DELTA
+22410,DL,2009,LGA,3697,CLT,3876,E75 CR7,La Guardia Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,Delta Air Lines,DELTA
+22411,DL,2009,LGA,3697,CMH,3759,E70 E75 CR7 ERJ,La Guardia Airport,New York,United States,John Glenn Columbus International Airport,Columbus,United States,Delta Air Lines,DELTA
+22412,DL,2009,LGA,3697,CVG,3488,CR7,La Guardia Airport,New York,United States,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,Delta Air Lines,DELTA
+22413,DL,2009,LGA,3697,DAY,3627,ERJ,La Guardia Airport,New York,United States,James M Cox Dayton International Airport,Dayton,United States,Delta Air Lines,DELTA
+22414,DL,2009,LGA,3697,DCA,3520,E70 E75,La Guardia Airport,New York,United States,Ronald Reagan Washington National Airport,Washington,United States,Delta Air Lines,DELTA
+22415,DL,2009,LGA,3697,DEN,3751,320,La Guardia Airport,New York,United States,Denver International Airport,Denver,United States,Delta Air Lines,DELTA
+22416,DL,2009,LGA,3697,DFW,3670,E75,La Guardia Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,Delta Air Lines,DELTA
+22417,DL,2009,LGA,3697,DSM,3729,CR9,La Guardia Airport,New York,United States,Des Moines International Airport,Des Moines,United States,Delta Air Lines,DELTA
+22418,DL,2009,LGA,3697,DTW,3645,319 M88 738,La Guardia Airport,New York,United States,Detroit Metropolitan Wayne County Airport,Detroit,United States,Delta Air Lines,DELTA
+22419,DL,2009,LGA,3697,EYW,3875,73W,La Guardia Airport,New York,United States,Key West International Airport,Key West,United States,Delta Air Lines,DELTA
+22420,DL,2009,LGA,3697,FLL,3533,M88 738 319,La Guardia Airport,New York,United States,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,Delta Air Lines,DELTA
+22421,DL,2009,LGA,3697,GRR,3685,CR7,La Guardia Airport,New York,United States,Gerald R. Ford International Airport,Grand Rapids,United States,Delta Air Lines,DELTA
+22422,DL,2009,LGA,3697,GSO,4008,CR7,La Guardia Airport,New York,United States,Piedmont Triad International Airport,Greensboro,United States,Delta Air Lines,DELTA
+22423,DL,2009,LGA,3697,GSP,4034,CRJ,La Guardia Airport,New York,United States,Greenville Spartanburg International Airport,Greenville,United States,Delta Air Lines,DELTA
+22424,DL,2009,LGA,3697,IAH,3550,E70 E75,La Guardia Airport,New York,United States,George Bush Intercontinental Houston Airport,Houston,United States,Delta Air Lines,DELTA
+22425,DL,2009,LGA,3697,ILM,3845,ERJ,La Guardia Airport,New York,United States,Wilmington International Airport,Wilmington,United States,Delta Air Lines,DELTA
+22426,DL,2009,LGA,3697,IND,3585,E75 CR7,La Guardia Airport,New York,United States,Indianapolis International Airport,Indianapolis,United States,Delta Air Lines,DELTA
+22427,DL,2009,LGA,3697,JAX,3712,CR7,La Guardia Airport,New York,United States,Jacksonville International Airport,Jacksonville,United States,Delta Air Lines,DELTA
+22428,DL,2009,LGA,3697,LEX,4017,ERJ,La Guardia Airport,New York,United States,Blue Grass Airport,Lexington KY,United States,Delta Air Lines,DELTA
+22429,DL,2009,LGA,3697,MCI,3458,CR7 E75 E70,La Guardia Airport,New York,United States,Kansas City International Airport,Kansas City,United States,Delta Air Lines,DELTA
+22430,DL,2009,LGA,3697,MCO,3878,319 M88 738,La Guardia Airport,New York,United States,Orlando International Airport,Orlando,United States,Delta Air Lines,DELTA
+22431,DL,2009,LGA,3697,MEM,3473,CR9,La Guardia Airport,New York,United States,Memphis International Airport,Memphis,United States,Delta Air Lines,DELTA
+22432,DL,2009,LGA,3697,MHT,4011,ERJ,La Guardia Airport,New York,United States,Manchester-Boston Regional Airport,Manchester NH,United States,Delta Air Lines,DELTA
+22433,DL,2009,LGA,3697,MIA,3576,M88 320 738,La Guardia Airport,New York,United States,Miami International Airport,Miami,United States,Delta Air Lines,DELTA
+22434,DL,2009,LGA,3697,MKE,3717,CR7,La Guardia Airport,New York,United States,General Mitchell International Airport,Milwaukee,United States,Delta Air Lines,DELTA
+22435,DL,2009,LGA,3697,MSN,3459,E70,La Guardia Airport,New York,United States,Dane County Regional Truax Field,Madison,United States,Delta Air Lines,DELTA
+22436,DL,2009,LGA,3697,MSP,3858,319 320 M88,La Guardia Airport,New York,United States,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,Delta Air Lines,DELTA
+22437,DL,2009,LGA,3697,MSY,3861,319,La Guardia Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Delta Air Lines,DELTA
+22438,DL,2009,LGA,3697,MYR,3515,E75,La Guardia Airport,New York,United States,Myrtle Beach International Airport,Myrtle Beach,United States,Delta Air Lines,DELTA
+22439,DL,2009,LGA,3697,OMA,3454,E75,La Guardia Airport,New York,United States,Eppley Airfield,Omaha,United States,Delta Air Lines,DELTA
+22440,DL,2009,LGA,3697,ORD,3830,E75 E70,La Guardia Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,Delta Air Lines,DELTA
+22441,DL,2009,LGA,3697,ORF,3611,CR7,La Guardia Airport,New York,United States,Norfolk International Airport,Norfolk,United States,Delta Air Lines,DELTA
+22442,DL,2009,LGA,3697,PBI,3722,319,La Guardia Airport,New York,United States,Palm Beach International Airport,West Palm Beach,United States,Delta Air Lines,DELTA
+22443,DL,2009,LGA,3697,PIT,3570,CR9 CR7,La Guardia Airport,New York,United States,Pittsburgh International Airport,Pittsburgh,United States,Delta Air Lines,DELTA
+22444,DL,2009,LGA,3697,PWM,3862,ERJ M88,La Guardia Airport,New York,United States,Portland International Jetport Airport,Portland,United States,Delta Air Lines,DELTA
+22445,DL,2009,LGA,3697,RDU,3626,CR7,La Guardia Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,Delta Air Lines,DELTA
+22446,DL,2009,LGA,3697,RIC,3608,CR7,La Guardia Airport,New York,United States,Richmond International Airport,Richmond,United States,Delta Air Lines,DELTA
+22447,DL,2009,LGA,3697,ROC,3622,CR7 CR9,La Guardia Airport,New York,United States,Greater Rochester International Airport,Rochester,United States,Delta Air Lines,DELTA
+22448,DL,2009,LGA,3697,RSW,3793,CR9,La Guardia Airport,New York,United States,Southwest Florida International Airport,Fort Myers,United States,Delta Air Lines,DELTA
+22449,DL,2009,LGA,3697,SAV,3613,CR7,La Guardia Airport,New York,United States,Savannah Hilton Head International Airport,Savannah,United States,Delta Air Lines,DELTA
+22450,DL,2009,LGA,3697,SDF,4014,ERJ,La Guardia Airport,New York,United States,Louisville International Standiford Field,Louisville,United States,Delta Air Lines,DELTA
+22451,DL,2009,LGA,3697,SRQ,4067,319,La Guardia Airport,New York,United States,Sarasota Bradenton International Airport,Sarasota,United States,Delta Air Lines,DELTA
+22452,DL,2009,LGA,3697,STL,3678,CR7,La Guardia Airport,New York,United States,St Louis Lambert International Airport,St. Louis,United States,Delta Air Lines,DELTA
+22453,DL,2009,LGA,3697,SYR,3745,CR7,La Guardia Airport,New York,United States,Syracuse Hancock International Airport,Syracuse,United States,Delta Air Lines,DELTA
+22454,DL,2009,LGA,3697,TPA,3646,319 M88 320,La Guardia Airport,New York,United States,Tampa International Airport,Tampa,United States,Delta Air Lines,DELTA
+22455,DL,2009,LGA,3697,TYS,3676,CRJ,La Guardia Airport,New York,United States,McGhee Tyson Airport,Knoxville,United States,Delta Air Lines,DELTA
+22456,DL,2009,LGA,3697,YHZ,73,CR7,La Guardia Airport,New York,United States,Halifax / Stanfield International Airport,Halifax,Canada,Delta Air Lines,DELTA
+22457,DL,2009,LGA,3697,YUL,146,ERJ CR7,La Guardia Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,Delta Air Lines,DELTA
+22458,DL,2009,LGA,3697,YYZ,193,736 73W,La Guardia Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,Delta Air Lines,DELTA
+22473,DL,2009,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22584,DL,2009,MEX,1824,SFO,3469,737,Licenciado Benito Juarez International Airport,Mexico City,Mexico,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22740,DL,2009,MSP,3858,SFO,3469,320 753 M90 757 738,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22909,DL,2009,PSP,3839,SFO,3469,734,Palm Springs International Airport,Palm Springs,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+22924,DL,2009,PVG,3406,SFO,3469,332,Shanghai Pudong International Airport,Shanghai,China,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+23040,DL,2009,SEA,3577,SFO,3469,E75 734,Seattle Tacoma International Airport,Seattle,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+23151,DL,2009,SLC,3536,SFO,3469,320,Salt Lake City International Airport,Salt Lake City,United States,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+23217,DL,2009,TPE,2276,SFO,3469,744,Taiwan Taoyuan International Airport,Taipei,Taiwan,San Francisco International Airport,San Francisco,United States,Delta Air Lines,DELTA
+24000,DY,3737,JFK,3797,ARN,737,788,John F Kennedy International Airport,New York,United States,Stockholm-Arlanda Airport,Stockholm,Sweden,Norwegian Air Shuttle,NOR SHUTTLE
+24001,DY,3737,JFK,3797,BGO,636,788,John F Kennedy International Airport,New York,United States,Bergen Airport Flesland,Bergen,Norway,Norwegian Air Shuttle,NOR SHUTTLE
+24002,DY,3737,JFK,3797,CPH,609,788,John F Kennedy International Airport,New York,United States,Copenhagen Kastrup Airport,Copenhagen,Denmark,Norwegian Air Shuttle,NOR SHUTTLE
+24003,DY,3737,JFK,3797,OSL,644,788,John F Kennedy International Airport,New York,United States,Oslo Lufthavn,Oslo,Norway,Norwegian Air Shuttle,NOR SHUTTLE
+24533,EI,837,DUB,599,SFO,3469,332,Dublin Airport,Dublin,Ireland,San Francisco International Airport,San Francisco,United States,Aer Lingus,SHAMROCK
+24565,EI,837,JFK,3797,DUB,599,330,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,Aer Lingus,SHAMROCK
+24566,EI,837,JFK,3797,SNN,603,757,John F Kennedy International Airport,New York,United States,Shannon Airport,Shannon,Ireland,Aer Lingus,SHAMROCK
+24813,EK,2183,DXB,2188,SFO,3469,77W,Dubai International Airport,Dubai,United Arab Emirates,San Francisco International Airport,San Francisco,United States,Emirates,EMIRATES
+24850,EK,2183,JFK,3797,DXB,2188,388,John F Kennedy International Airport,New York,United States,Dubai International Airport,Dubai,United Arab Emirates,Emirates,EMIRATES
+24851,EK,2183,JFK,3797,MXP,1524,77W,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,Emirates,EMIRATES
+25419,ET,2220,JFK,3797,FRA,340,744,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Ethiopian Airlines,ETHIOPIAN
+25790,EY,2222,JFK,3797,AUH,2179,77W,John F Kennedy International Airport,New York,United States,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,Etihad Airways,ETIHAD
+25791,EY,2222,JFK,3797,CDG,1382,763 757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Etihad Airways,ETIHAD
+25792,EY,2222,JFK,3797,LAS,3877,738,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,Etihad Airways,ETIHAD
+25793,EY,2222,JFK,3797,MSY,3861,E90 320,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Etihad Airways,ETIHAD
+26014,F9,2468,DEN,3751,SFO,3469,320 319,Denver International Airport,Denver,United States,San Francisco International Airport,San Francisco,United States,Frontier Airlines,FRONTIER FLIGHT
+26054,F9,2468,LGA,3697,DEN,3751,320,La Guardia Airport,New York,United States,Denver International Airport,Denver,United States,Frontier Airlines,FRONTIER FLIGHT
+26347,FI,2835,JFK,3797,KEF,16,75T,John F Kennedy International Airport,New York,United States,Keflavik International Airport,Keflavik,Iceland,Icelandair,ICEAIR
+26504,FL,1316,ATL,3682,SFO,3469,73G,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+26632,FL,1316,DAL,3502,SFO,3469,73W,Dallas Love Field,Dallas,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+26692,FL,1316,FLL,3533,SFO,3469,73W,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+26785,FL,1316,LGA,3697,ATL,3682,717,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,AirTran Airways,CITRUS
+26786,FL,1316,LGA,3697,CAK,4112,717,La Guardia Airport,New York,United States,Akron Canton Regional Airport,Akron,United States,AirTran Airways,CITRUS
+26787,FL,1316,LGA,3697,MDW,3747,73H 73W,La Guardia Airport,New York,United States,Chicago Midway International Airport,Chicago,United States,AirTran Airways,CITRUS
+26811,FL,1316,MCI,3458,SFO,3469,73W,Kansas City International Airport,Kansas City,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+26900,FL,1316,MDW,3747,SFO,3469,73W,Chicago Midway International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+26936,FL,1316,MKE,3717,SFO,3469,73W,General Mitchell International Airport,Milwaukee,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+27036,FL,1316,RDU,3626,SFO,3469,73W,Raleigh Durham International Airport,Raleigh-durham,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+27121,FL,1316,SNA,3867,SFO,3469,73W,John Wayne Airport-Orange County Airport,Santa Ana,United States,San Francisco International Airport,San Francisco,United States,AirTran Airways,CITRUS
+30812,G3,1790,JFK,3797,GRU,2564,764,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,City Connexion Airlines,CONNEXION
+30813,G3,1790,JFK,3797,GRU,2564,764,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,Gol Transportes Aéreos,GOL TRANSPORTE
+30814,G3,1790,JFK,3797,GRU,2564,764,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,Sky Express,AIR CRETE
+33725,HA,2688,HNL,3728,SFO,3469,332,Daniel K Inouye International Airport,Honolulu,United States,San Francisco International Airport,San Francisco,United States,Hawaiian Airlines,HAWAIIAN
+33732,HA,2688,JFK,3797,HNL,3728,332,John F Kennedy International Airport,New York,United States,Daniel K Inouye International Airport,Honolulu,United States,Hawaiian Airlines,HAWAIIAN
+33733,HA,2688,JFK,3797,LAS,3877,320,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,Hawaiian Airlines,HAWAIIAN
+33739,HA,2688,LAS,3877,SFO,3469,320,McCarran International Airport,Las Vegas,United States,San Francisco International Airport,San Francisco,United States,Hawaiian Airlines,HAWAIIAN
+35349,HY,5281,JFK,3797,RIX,3953,763 764,John F Kennedy International Airport,New York,United States,Riga International Airport,Riga,Latvia,Uzbekistan Airways,UZBEK
+35896,IB,2822,JFK,3797,BCN,1218,763,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,Iberia Airlines,IBERIA
+35897,IB,2822,JFK,3797,CDG,1382,763 757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Iberia Airlines,IBERIA
+35898,IB,2822,JFK,3797,FCO,1555,763,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,Iberia Airlines,IBERIA
+35899,IB,2822,JFK,3797,HEL,421,330,John F Kennedy International Airport,New York,United States,Helsinki Vantaa Airport,Helsinki,Finland,Iberia Airlines,IBERIA
+35900,IB,2822,JFK,3797,LCY,503,318,John F Kennedy International Airport,New York,United States,London City Airport,London,United Kingdom,Iberia Airlines,IBERIA
+35901,IB,2822,JFK,3797,LHR,507,744 77W 777,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Iberia Airlines,IBERIA
+35902,IB,2822,JFK,3797,MAD,1229,333 346,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,Iberia Airlines,IBERIA
+35903,IB,2822,JFK,3797,MAN,478,757,John F Kennedy International Airport,New York,United States,Manchester Airport,Manchester,United Kingdom,Iberia Airlines,IBERIA
+35904,IB,2822,JFK,3797,MXP,1524,763,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,Iberia Airlines,IBERIA
+35905,IB,2822,JFK,3797,ORY,1386,752,John F Kennedy International Airport,New York,United States,Paris-Orly Airport,Paris,France,Iberia Airlines,IBERIA
+35989,IB,2822,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Iberia Airlines,IBERIA
+37802,JJ,4867,JFK,3797,GIG,2560,763,John F Kennedy International Airport,New York,United States,Rio Galeão – Tom Jobim International Airport,Rio De Janeiro,Brazil,TAM Brazilian Airlines,TAM
+37803,JJ,4867,JFK,3797,GRU,2564,773 77W 777,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,TAM Brazilian Airlines,TAM
+37804,JJ,4867,JFK,3797,LIM,2789,763,John F Kennedy International Airport,New York,United States,Jorge Chávez International Airport,Lima,Peru,TAM Brazilian Airlines,TAM
+38198,JL,2987,HND,2359,SFO,3469,788,Tokyo Haneda International Airport,Tokyo,Japan,San Francisco International Airport,San Francisco,United States,Japan Airlines,JAPANAIR
+38199,JL,2987,HND,2359,SFO,3469,788,Tokyo Haneda International Airport,Tokyo,Japan,San Francisco International Airport,San Francisco,United States,Japan Airlines Domestic,J-BIRD
+38282,JL,2987,JFK,3797,MSY,3861,E90,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Japan Airlines,JAPANAIR
+38283,JL,2987,JFK,3797,MSY,3861,E90,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Japan Airlines Domestic,J-BIRD
+38284,JL,2987,JFK,3797,NRT,2279,788 773,John F Kennedy International Airport,New York,United States,Narita International Airport,Tokyo,Japan,Japan Airlines,JAPANAIR
+38285,JL,2987,JFK,3797,NRT,2279,788 773,John F Kennedy International Airport,New York,United States,Narita International Airport,Tokyo,Japan,Japan Airlines Domestic,J-BIRD
+40041,KE,3163,ICN,3930,SFO,3469,77W 772,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Korean Air,KOREANAIR
+40068,KE,3163,JFK,3797,ICN,3930,77W 388,John F Kennedy International Airport,New York,United States,Incheon International Airport,Seoul,South Korea,Korean Air,KOREANAIR
+40345,KL,3090,AMS,580,SFO,3469,747,Amsterdam Airport Schiphol,Amsterdam,Netherlands,San Francisco International Airport,San Francisco,United States,KLM Royal Dutch Airlines,KLM
+40508,KL,3090,ATL,3682,SFO,3469,739 763 757,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,KLM Royal Dutch Airlines,KLM
+40756,KL,3090,JFK,3797,AMS,580,330 777 74M 747,John F Kennedy International Airport,New York,United States,Amsterdam Airport Schiphol,Amsterdam,Netherlands,KLM Royal Dutch Airlines,KLM
+40757,KL,3090,JFK,3797,ATL,3682,319 738 752 M88,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,KLM Royal Dutch Airlines,KLM
+40758,KL,3090,JFK,3797,BCN,1218,330,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,KLM Royal Dutch Airlines,KLM
+40759,KL,3090,JFK,3797,BRU,302,76W,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,KLM Royal Dutch Airlines,KLM
+40760,KL,3090,JFK,3797,DUB,599,757,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,KLM Royal Dutch Airlines,KLM
+40761,KL,3090,JFK,3797,FRA,340,76W,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,KLM Royal Dutch Airlines,KLM
+40762,KL,3090,JFK,3797,LHR,507,767 76W,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,KLM Royal Dutch Airlines,KLM
+40763,KL,3090,JFK,3797,MAD,1229,767,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,KLM Royal Dutch Airlines,KLM
+40764,KL,3090,JFK,3797,MSY,3861,CR9,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,KLM Royal Dutch Airlines,KLM
+40807,KL,3090,LGA,3697,ATL,3682,757 M88 73W,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,KLM Royal Dutch Airlines,KLM
+40866,KL,3090,MSP,3858,SFO,3469,757,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,San Francisco International Airport,San Francisco,United States,KLM Royal Dutch Airlines,KLM
+40927,KL,3090,PSP,3839,SFO,3469,737,Palm Springs International Airport,Palm Springs,United States,San Francisco International Airport,San Francisco,United States,KLM Royal Dutch Airlines,KLM
+41451,KU,3179,JFK,3797,KWI,2176,777,John F Kennedy International Airport,New York,United States,Kuwait International Airport,Kuwait,Kuwait,Kuwait Airways,KUWAITI
+41452,KU,3179,JFK,3797,LHR,507,777,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Kuwait Airways,KUWAITI
+41512,KX,1682,JFK,3797,GCM,1926,733,John F Kennedy International Airport,New York,United States,Owen Roberts International Airport,Georgetown,Cayman Islands,Cayman Airways,CAYMAN
+41837,LA,3200,JFK,3797,LIM,2789,763,John F Kennedy International Airport,New York,United States,Jorge Chávez International Airport,Lima,Peru,LAN Airlines,LAN
+41838,LA,3200,JFK,3797,SCL,2650,787,John F Kennedy International Airport,New York,United States,Comodoro Arturo Merino Benítez International Airport,Santiago,Chile,LAN Airlines,LAN
+42898,LH,3320,FRA,340,SFO,3469,744 388,Frankfurt am Main Airport,Frankfurt,Germany,San Francisco International Airport,San Francisco,United States,Lufthansa,LUFTHANSA
+42899,LH,3320,FRA,340,SFO,3469,744 388,Frankfurt am Main Airport,Frankfurt,Germany,San Francisco International Airport,San Francisco,United States,Lufthansa Cargo,LUFTHANSA CARGO
+43104,LH,3320,JFK,3797,BRU,302,333,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,Lufthansa,LUFTHANSA
+43105,LH,3320,JFK,3797,BRU,302,333,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,Lufthansa Cargo,LUFTHANSA CARGO
+43106,LH,3320,JFK,3797,FRA,340,388 744,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Lufthansa,LUFTHANSA
+43107,LH,3320,JFK,3797,FRA,340,388 744,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Lufthansa Cargo,LUFTHANSA CARGO
+43108,LH,3320,JFK,3797,MSY,3861,E90,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Lufthansa,LUFTHANSA
+43109,LH,3320,JFK,3797,MSY,3861,E90,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Lufthansa Cargo,LUFTHANSA CARGO
+43110,LH,3320,JFK,3797,MUC,346,333,John F Kennedy International Airport,New York,United States,Munich Airport,Munich,Germany,Lufthansa,LUFTHANSA
+43111,LH,3320,JFK,3797,MUC,346,333,John F Kennedy International Airport,New York,United States,Munich Airport,Munich,Germany,Lufthansa Cargo,LUFTHANSA CARGO
+43196,LH,3320,LHR,507,SFO,3469,777,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Lufthansa,LUFTHANSA
+43197,LH,3320,LHR,507,SFO,3469,777,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Lufthansa Cargo,LUFTHANSA CARGO
+43508,LH,3320,MUC,346,SFO,3469,346,Munich Airport,Munich,Germany,San Francisco International Airport,San Francisco,United States,Lufthansa,LUFTHANSA
+43509,LH,3320,MUC,346,SFO,3469,346,Munich Airport,Munich,Germany,San Francisco International Airport,San Francisco,United States,Lufthansa Cargo,LUFTHANSA CARGO
+44221,LO,3210,JFK,3797,WAW,679,788,John F Kennedy International Airport,New York,United States,Warsaw Chopin Airport,Warsaw,Poland,LOT Polish Airlines,POLLOT
+44797,LX,4559,JFK,3797,GVA,1665,333,John F Kennedy International Airport,New York,United States,Geneva Cointrin International Airport,Geneva,Switzerland,Swiss International Air Lines,SWISS
+44798,LX,4559,JFK,3797,ZRH,1678,333,John F Kennedy International Airport,New York,United States,Zürich Airport,Zurich,Switzerland,Swiss International Air Lines,SWISS
+44956,LX,4559,ZRH,1678,SFO,3469,343,Zürich Airport,Zurich,Switzerland,San Francisco International Airport,San Francisco,United States,Swiss International Air Lines,SWISS
+44986,LY,2150,JFK,3797,TLV,1590,744,John F Kennedy International Airport,New York,United States,Ben Gurion International Airport,Tel-aviv,Israel,El Al Israel Airlines,ELAL
+45763,MH,3378,JFK,3797,LHR,507,777,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Malaysia Airlines,MALAYSIAN
+46531,MS,2143,JFK,3797,CAI,1128,773,John F Kennedy International Airport,New York,United States,Cairo International Airport,Cairo,Egypt,Egyptair,EGYPTAIR
+46928,MU,1758,JFK,3797,PVG,3406,346,John F Kennedy International Airport,New York,United States,Shanghai Pudong International Airport,Shanghai,China,China Eastern Airlines,CHINA EASTERN
+47408,MU,1758,PVG,3406,SFO,3469,332,Shanghai Pudong International Airport,Shanghai,China,San Francisco International Airport,San Francisco,United States,China Eastern Airlines,CHINA EASTERN
+48271,NH,324,JFK,3797,NRT,2279,77W,John F Kennedy International Airport,New York,United States,Narita International Airport,Tokyo,Japan,All Nippon Airways,ALL NIPPON
+48304,NH,324,KIX,3992,SFO,3469,777 788,Kansai International Airport,Osaka,Japan,San Francisco International Airport,San Francisco,United States,All Nippon Airways,ALL NIPPON
+48434,NH,324,NRT,2279,SFO,3469,77W,Narita International Airport,Tokyo,Japan,San Francisco International Airport,San Francisco,United States,All Nippon Airways,ALL NIPPON
+48756,NK,4687,LGA,3697,DFW,3670,319,La Guardia Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,Spirit Airlines,SPIRIT WINGS
+48757,NK,4687,LGA,3697,DTW,3645,320,La Guardia Airport,New York,United States,Detroit Metropolitan Wayne County Airport,Detroit,United States,Spirit Airlines,SPIRIT WINGS
+48758,NK,4687,LGA,3697,FLL,3533,321 320,La Guardia Airport,New York,United States,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,Spirit Airlines,SPIRIT WINGS
+48759,NK,4687,LGA,3697,MYR,3515,320,La Guardia Airport,New York,United States,Myrtle Beach International Airport,Myrtle Beach,United States,Spirit Airlines,SPIRIT WINGS
+48760,NK,4687,LGA,3697,ORD,3830,320,La Guardia Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,Spirit Airlines,SPIRIT WINGS
+49156,NZ,345,AKL,2006,SFO,3469,772 744,Auckland International Airport,Auckland,New Zealand,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49169,NZ,345,ATL,3682,SFO,3469,738,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49209,NZ,345,FRA,340,SFO,3469,744,Frankfurt am Main Airport,Frankfurt,Germany,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49211,NZ,345,GDL,1804,SFO,3469,319 738,Don Miguel Hidalgo Y Costilla International Airport,Guadalajara,Mexico,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49241,NZ,345,LHR,507,SFO,3469,777,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49247,NZ,345,MEX,1824,SFO,3469,320,Licenciado Benito Juarez International Airport,Mexico City,Mexico,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49319,NZ,345,SYD,3361,SFO,3469,777,Sydney Kingsford Smith International Airport,Sydney,Australia,San Francisco International Airport,San Francisco,United States,Air New Zealand,NEW ZEALAND
+49711,OJ,3826,JFK,3797,KIN,1779,752,John F Kennedy International Airport,New York,United States,Norman Manley International Airport,Kingston,Jamaica,Overland Airways,OVERLAND
+49939,OS,491,JFK,3797,VIE,1613,772,John F Kennedy International Airport,New York,United States,Vienna International Airport,Vienna,Austria,Austrian Airlines,AUSTRIAN
+50524,OZ,28,ICN,3930,SFO,3469,77L,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Asiana Airlines,ASIANA
+50525,OZ,28,ICN,3930,SFO,3469,77L,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Ozark Air Lines,OZARK
+50578,OZ,28,JFK,3797,ICN,3930,77W,John F Kennedy International Airport,New York,United States,Incheon International Airport,Seoul,South Korea,Asiana Airlines,ASIANA
+50579,OZ,28,JFK,3797,ICN,3930,77W,John F Kennedy International Airport,New York,United States,Incheon International Airport,Seoul,South Korea,Ozark Air Lines,OZARK
+51940,PK,3871,JFK,3797,LHE,2207,777,John F Kennedy International Airport,New York,United States,Alama Iqbal International Airport,Lahore,Pakistan,Pakistan International Airlines,PAKISTAN
+52359,PR,3952,MNL,2397,SFO,3469,744,Ninoy Aquino International Airport,Manila,Philippines,San Francisco International Airport,San Francisco,United States,Philippine Airlines,PHILIPPINE
+52467,PS,5282,JFK,3797,KBP,2939,767,John F Kennedy International Airport,New York,United States,Boryspil International Airport,Kiev,Ukraine,Pacific Southwest Airlines,SMILEY
+52468,PS,5282,JFK,3797,KBP,2939,767,John F Kennedy International Airport,New York,United States,Boryspil International Airport,Kiev,Ukraine,Ukraine International Airlines,UKRAINE INTERNATIONAL
+53273,QF,4089,JFK,3797,LAX,3484,744,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,Qantas,QANTAS
+53863,QR,4091,JFK,3797,BCN,1218,763,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,Qatar Airways,QATARI
+53864,QR,4091,JFK,3797,CDG,1382,757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,Qatar Airways,QATARI
+53865,QR,4091,JFK,3797,DOH,11051,77W,John F Kennedy International Airport,New York,United States,Hamad International Airport,Doha,Qatar,Qatar Airways,QATARI
+53866,QR,4091,JFK,3797,LAS,3877,738,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,Qatar Airways,QATARI
+53867,QR,4091,JFK,3797,MSY,3861,E90,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Qatar Airways,QATARI
+53868,QR,4091,JFK,3797,MXP,1524,763,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,Qatar Airways,QATARI
+53869,QR,4091,JFK,3797,ORD,3830,738,John F Kennedy International Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,Qatar Airways,QATARI
+53870,QR,4091,JFK,3797,SAN,3731,738,John F Kennedy International Airport,New York,United States,San Diego International Airport,San Diego,United States,Qatar Airways,QATARI
+54453,RJ,4259,JFK,3797,AMM,2170,340 330,John F Kennedy International Airport,New York,United States,Queen Alia International Airport,Amman,Jordan,Royal Jordanian,JORDANIAN
+55332,SA,4305,JFK,3797,JNB,813,346,John F Kennedy International Airport,New York,United States,OR Tambo International Airport,Johannesburg,South Africa,South African Airways,SPRINGBOK
+55844,SE,5479,JFK,3797,CDG,1382,763 332,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,XL Airways France,STARWAY
+56632,SK,4319,CPH,609,SFO,3469,343,Copenhagen Kastrup Airport,Copenhagen,Denmark,San Francisco International Airport,San Francisco,United States,Scandinavian Airlines System,SCANDINAVIAN
+57061,SN,1531,JFK,3797,BRU,302,333,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,Brussels Airlines,BEE-LINE
+57253,SQ,4435,HKG,3077,SFO,3469,77W,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,Singapore Airlines,SINGAPORE
+57254,SQ,4435,HKG,3077,SFO,3469,77W,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,Singapore Airlines Cargo,SINGCARGO
+57265,SQ,4435,ICN,3930,SFO,3469,77W,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Singapore Airlines,SINGAPORE
+57266,SQ,4435,ICN,3930,SFO,3469,77W,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,Singapore Airlines Cargo,SINGCARGO
+57273,SQ,4435,JFK,3797,FRA,340,388,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Singapore Airlines,SINGAPORE
+57274,SQ,4435,JFK,3797,FRA,340,388,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,Singapore Airlines Cargo,SINGCARGO
+57795,SU,130,JFK,3797,ATL,3682,752 319 738 757 M88,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Aeroflot Russian Airlines,AEROFLOT
+57796,SU,130,JFK,3797,SVO,2985,333 77W,John F Kennedy International Airport,New York,United States,Sheremetyevo International Airport,Moscow,Russia,Aeroflot Russian Airlines,AEROFLOT
+58393,SV,4533,JFK,3797,JED,2072,777,John F Kennedy International Airport,New York,United States,King Abdulaziz International Airport,Jeddah,Saudi Arabia,Saudi Arabian Airlines,SAUDIA
+58394,SV,4533,JFK,3797,RUH,2082,777,John F Kennedy International Airport,New York,United States,King Khaled International Airport,Riyadh,Saudi Arabia,Saudi Arabian Airlines,SAUDIA
+58685,SY,4356,JFK,3797,MSP,3858,73G 738,John F Kennedy International Airport,New York,United States,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,Sun Country Airlines,SUN COUNTRY
+58708,SY,4356,MSP,3858,SFO,3469,73G 738,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,San Francisco International Airport,San Francisco,United States,Sun Country Airlines,SUN COUNTRY
+59696,TK,4951,JFK,3797,IST,1701,330 77W,John F Kennedy International Airport,New York,United States,Istanbul Airport,Istanbul,Turkey,Turkish Airlines,TURKAIR
+64543,UA,5209,ABQ,4019,SFO,3469,CRJ,Albuquerque International Sunport,Albuquerque,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64546,UA,5209,ACV,4384,SFO,3469,EM2,California Redwood Coast-Humboldt County Airport,Arcata CA,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64555,UA,5209,AKL,2006,SFO,3469,772 744,Auckland International Airport,Auckland,New Zealand,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64587,UA,5209,ATL,3682,SFO,3469,738,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64602,UA,5209,AUS,3673,SFO,3469,738 319 320 739,Austin Bergstrom International Airport,Austin,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64619,UA,5209,BFL,3558,SFO,3469,EM2,Meadows Field,Bakersfield,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64651,UA,5209,BOI,3495,SFO,3469,CRJ CR7,Boise Air Terminal/Gowen Field,Boise,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64666,UA,5209,BOS,3448,SFO,3469,752 753 739 738 73G,General Edward Lawrence Logan International Airport,Boston,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64703,UA,5209,BUR,3644,SFO,3469,CR7 CRJ,Bob Hope Airport,Burbank,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64710,UA,5209,BWI,3849,SFO,3469,738 739 319,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64724,UA,5209,CDG,1382,SFO,3469,763,Charles de Gaulle International Airport,Paris,France,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64727,UA,5209,CEC,5727,SFO,3469,EM2,Jack Mc Namara Field Airport,Crescent City,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64734,UA,5209,CIC,3710,SFO,3469,EM2,Chico Municipal Airport,Chico,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64785,UA,5209,CLE,3486,SFO,3469,739 738 319,Cleveland Hopkins International Airport,Cleveland,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64815,UA,5209,COS,3819,SFO,3469,CRJ,City of Colorado Springs Municipal Airport,Colorado Springs,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64829,UA,5209,CUN,1852,SFO,3469,739,Cancún International Airport,Cancun,Mexico,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64852,UA,5209,DCA,3520,SFO,3469,738 73G,Ronald Reagan Washington National Airport,Washington,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+64970,UA,5209,DEN,3751,SFO,3469,752 738 320 739 73G 319 753,Denver International Airport,Denver,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65003,UA,5209,DFW,3670,SFO,3469,319 739,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65057,UA,5209,EUG,4099,SFO,3469,CRJ CR7,Mahlon Sweet Field,Eugene,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65172,UA,5209,EWR,3494,SFO,3469,739 319 738 752 73G,Newark Liberty International Airport,Newark,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65209,UA,5209,FAT,3687,SFO,3469,EM2 CRJ,Fresno Yosemite International Airport,Fresno,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65232,UA,5209,FLL,3533,SFO,3469,738 752,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65261,UA,5209,FRA,340,SFO,3469,744,Frankfurt am Main Airport,Frankfurt,Germany,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65273,UA,5209,GDL,1804,SFO,3469,319 738,Don Miguel Hidalgo Y Costilla International Airport,Guadalajara,Mexico,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65342,UA,5209,HKG,3077,SFO,3469,744,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65362,UA,5209,HNL,3728,SFO,3469,764 777 738 753 739,Daniel K Inouye International Airport,Honolulu,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65465,UA,5209,IAD,3714,SFO,3469,752 320 753 738 739 319,Washington Dulles International Airport,Washington,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65612,UA,5209,IAH,3550,SFO,3469,319 739 738 320 788 73G 752,George Bush Intercontinental Houston Airport,Houston,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65649,UA,5209,ICN,3930,SFO,3469,744,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65662,UA,5209,IND,3585,SFO,3469,319,Indianapolis International Airport,Indianapolis,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65677,UA,5209,JFK,3797,BOG,2709,330,John F Kennedy International Airport,New York,United States,El Dorado International Airport,Bogota,Colombia,United Airlines,UNITED
+65678,UA,5209,JFK,3797,BRU,302,333,John F Kennedy International Airport,New York,United States,Brussels Airport,Brussels,Belgium,United Airlines,UNITED
+65679,UA,5209,JFK,3797,CAI,1128,773,John F Kennedy International Airport,New York,United States,Cairo International Airport,Cairo,Egypt,United Airlines,UNITED
+65680,UA,5209,JFK,3797,DUB,599,330,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,United Airlines,UNITED
+65681,UA,5209,JFK,3797,FRA,340,388 744,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,United Airlines,UNITED
+65682,UA,5209,JFK,3797,GVA,1665,333,John F Kennedy International Airport,New York,United States,Geneva Cointrin International Airport,Geneva,Switzerland,United Airlines,UNITED
+65683,UA,5209,JFK,3797,IAD,3714,CRJ,John F Kennedy International Airport,New York,United States,Washington Dulles International Airport,Washington,United States,United Airlines,UNITED
+65684,UA,5209,JFK,3797,ICN,3930,77W,John F Kennedy International Airport,New York,United States,Incheon International Airport,Seoul,South Korea,United Airlines,UNITED
+65685,UA,5209,JFK,3797,JNB,813,346,John F Kennedy International Airport,New York,United States,OR Tambo International Airport,Johannesburg,South Africa,United Airlines,UNITED
+65686,UA,5209,JFK,3797,LAX,3484,757,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,United Airlines,UNITED
+65687,UA,5209,JFK,3797,MUC,346,333,John F Kennedy International Airport,New York,United States,Munich Airport,Munich,Germany,United Airlines,UNITED
+65688,UA,5209,JFK,3797,NRT,2279,77W,John F Kennedy International Airport,New York,United States,Narita International Airport,Tokyo,Japan,United Airlines,UNITED
+65689,UA,5209,JFK,3797,PEK,3364,773,John F Kennedy International Airport,New York,United States,Beijing Capital International Airport,Beijing,China,United Airlines,UNITED
+65690,UA,5209,JFK,3797,PTY,1871,738,John F Kennedy International Airport,New York,United States,Tocumen International Airport,Panama City,Panama,United Airlines,UNITED
+65691,UA,5209,JFK,3797,SAL,1892,320,John F Kennedy International Airport,New York,United States,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,United Airlines,UNITED
+65692,UA,5209,JFK,3797,SFO,3469,757,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65693,UA,5209,JFK,3797,VIE,1613,772,John F Kennedy International Airport,New York,United States,Vienna International Airport,Vienna,Austria,United Airlines,UNITED
+65694,UA,5209,JFK,3797,ZRH,1678,333,John F Kennedy International Airport,New York,United States,Zürich Airport,Zurich,Switzerland,United Airlines,UNITED
+65704,UA,5209,KIX,3992,SFO,3469,777 788,Kansai International Airport,Osaka,Japan,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65707,UA,5209,KOA,3514,SFO,3469,753 739 738,Ellison Onizuka Kona International At Keahole Airport,Kona,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65728,UA,5209,LAS,3877,SFO,3469,739 738 320 752 319 753,McCarran International Airport,Las Vegas,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65787,UA,5209,LAX,3484,SFO,3469,739 752 753 319 320 738,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65811,UA,5209,LGA,3697,CLE,3486,ERJ E70,La Guardia Airport,New York,United States,Cleveland Hopkins International Airport,Cleveland,United States,United Airlines,UNITED
+65812,UA,5209,LGA,3697,DEN,3751,752 320 738,La Guardia Airport,New York,United States,Denver International Airport,Denver,United States,United Airlines,UNITED
+65813,UA,5209,LGA,3697,IAD,3714,CRJ ERJ E70 CR7,La Guardia Airport,New York,United States,Washington Dulles International Airport,Washington,United States,United Airlines,UNITED
+65814,UA,5209,LGA,3697,IAH,3550,738 320 73G 319,La Guardia Airport,New York,United States,George Bush Intercontinental Houston Airport,Houston,United States,United Airlines,UNITED
+65815,UA,5209,LGA,3697,ORD,3830,319 320 738 73G 752,La Guardia Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,United Airlines,UNITED
+65816,UA,5209,LGA,3697,YOW,100,CRJ,La Guardia Airport,New York,United States,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada,United Airlines,UNITED
+65817,UA,5209,LGA,3697,YUL,146,E75,La Guardia Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,United Airlines,UNITED
+65818,UA,5209,LGA,3697,YYZ,193,E90 CRA E75,La Guardia Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,United Airlines,UNITED
+65824,UA,5209,LHR,507,SFO,3469,777,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65828,UA,5209,LIH,3602,SFO,3469,752,Lihue Airport,Lihue,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65841,UA,5209,LMT,5750,SFO,3469,EM2,Crater Lake-Klamath Regional Airport,Klamath Falls,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65865,UA,5209,MCI,3458,SFO,3469,CR7,Kansas City International Airport,Kansas City,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65880,UA,5209,MCO,3878,SFO,3469,753 752 738 739,Orlando International Airport,Orlando,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65897,UA,5209,MEX,1824,SFO,3469,320,Licenciado Benito Juarez International Airport,Mexico City,Mexico,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65900,UA,5209,MFR,4101,SFO,3469,CRJ EM2,Rogue Valley International Medford Airport,Medford,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65943,UA,5209,MOD,3816,SFO,3469,EM2,Modesto City Co-Harry Sham Field,Modesto,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65947,UA,5209,MRY,3948,SFO,3469,EM2,Monterey Peninsula Airport,Monterey,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65959,UA,5209,MSP,3858,SFO,3469,320 739 319,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65968,UA,5209,MSY,3861,SFO,3469,320 319 738,Louis Armstrong New Orleans International Airport,New Orleans,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+65980,UA,5209,MUC,346,SFO,3469,346,Munich Airport,Munich,Germany,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66003,UA,5209,NRT,2279,SFO,3469,744,Narita International Airport,Tokyo,Japan,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66013,UA,5209,OGG,3456,SFO,3469,753 738,Kahului Airport,Kahului,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66020,UA,5209,OKC,3863,SFO,3469,CR7,Will Rogers World Airport,Oklahoma City,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66028,UA,5209,ONT,3734,SFO,3469,CRJ,Ontario International Airport,Ontario,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66156,UA,5209,ORD,3830,SFO,3469,752 739 320 738 753 319 777,Chicago O'Hare International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66195,UA,5209,OTH,5757,SFO,3469,CRJ,Southwest Oregon Regional Airport,North Bend,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66216,UA,5209,PDX,3720,SFO,3469,319 739 320,Portland International Airport,Portland,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66226,UA,5209,PEK,3364,SFO,3469,744,Beijing Capital International Airport,Beijing,China,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66233,UA,5209,PHL,3752,SFO,3469,739 738 319 752,Philadelphia International Airport,Philadelphia,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66242,UA,5209,PHX,3462,SFO,3469,320,Phoenix Sky Harbor International Airport,Phoenix,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66254,UA,5209,PIT,3570,SFO,3469,320 319 738,Pittsburgh International Airport,Pittsburgh,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66270,UA,5209,PSC,6133,SFO,3469,CRJ,Tri Cities Airport,Pasco,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66275,UA,5209,PSP,3839,SFO,3469,CRJ CR7,Palm Springs International Airport,Palm Springs,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66296,UA,5209,PVG,3406,SFO,3469,744,Shanghai Pudong International Airport,Shanghai,China,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66302,UA,5209,PVR,1836,SFO,3469,320,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66306,UA,5209,RDD,4098,SFO,3469,EM2,Redding Municipal Airport,Redding,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66309,UA,5209,RDM,4103,SFO,3469,CRJ EM2,Roberts Field,Redmond-Bend,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66314,UA,5209,RDU,3626,SFO,3469,738 739,Raleigh Durham International Airport,Raleigh-durham,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66324,UA,5209,RNO,3807,SFO,3469,CR7 CRJ,Reno Tahoe International Airport,Reno,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66352,UA,5209,SAL,1892,SFO,3469,319 320,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66359,UA,5209,SAN,3731,SFO,3469,739 738 320 319,San Diego International Airport,San Diego,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66369,UA,5209,SAT,3621,SFO,3469,CR7,San Antonio International Airport,San Antonio,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66376,UA,5209,SBA,3949,SFO,3469,EM2,Santa Barbara Municipal Airport,Santa Barbara,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66379,UA,5209,SBP,5768,SFO,3469,EM2,San Luis County Regional Airport,San Luis Obispo,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66401,UA,5209,SEA,3577,SFO,3469,319 739 320 738 752,Seattle Tacoma International Airport,Seattle,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66509,UA,5209,SJD,1840,SFO,3469,320 739 738,Los Cabos International Airport,San Jose Del Cabo,Mexico,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66523,UA,5209,SLC,3536,SFO,3469,738 320 319,Salt Lake City International Airport,Salt Lake City,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66532,UA,5209,SMF,3817,SFO,3469,EM2,Sacramento International Airport,Sacramento,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66538,UA,5209,SNA,3867,SFO,3469,738 319 320,John Wayne Airport-Orange County Airport,Santa Ana,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66552,UA,5209,STL,3678,SFO,3469,320 319,St Louis Lambert International Airport,St. Louis,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66564,UA,5209,SYD,3361,SFO,3469,777,Sydney Kingsford Smith International Airport,Sydney,Australia,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66590,UA,5209,TPE,2276,SFO,3469,777,Taiwan Taoyuan International Airport,Taipei,Taiwan,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66603,UA,5209,TUS,3636,SFO,3469,CRJ,Tucson International Airport,Tucson,United States,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66634,UA,5209,YEG,49,SFO,3469,CR7,Edmonton International Airport,Edmonton,Canada,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66660,UA,5209,YUL,146,SFO,3469,319,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66670,UA,5209,YVR,156,SFO,3469,320 319 739 738,Vancouver International Airport,Vancouver,Canada,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66680,UA,5209,YYC,178,SFO,3469,CR7,Calgary International Airport,Calgary,Canada,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66681,UA,5209,YYJ,184,SFO,3469,CRJ,Victoria International Airport,Victoria,Canada,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66701,UA,5209,YYZ,193,SFO,3469,320,Lester B. Pearson International Airport,Toronto,Canada,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+66714,UA,5209,ZRH,1678,SFO,3469,343,Zürich Airport,Zurich,Switzerland,San Francisco International Airport,San Francisco,United States,United Airlines,UNITED
+67036,UN,5067,JFK,3797,VKO,2988,777,John F Kennedy International Airport,New York,United States,Vnukovo International Airport,Moscow,Russia,Transaero Airlines,TRANSOVIET
+67072,UN,5067,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Transaero Airlines,TRANSOVIET
+67655,US,5265,CLT,3876,SFO,3469,321,Charlotte Douglas International Airport,Charlotte,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+67955,US,5265,DFW,3670,SFO,3469,738 757 763,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68127,US,5265,HKG,3077,SFO,3469,77W,Hong Kong International Airport,Hong Kong,Hong Kong,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68167,US,5265,ICN,3930,SFO,3469,77W,Incheon International Airport,Seoul,South Korea,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68206,US,5265,JFK,3797,AMM,2170,340 330,John F Kennedy International Airport,New York,United States,Queen Alia International Airport,Amman,Jordan,US Airways,U S AIR
+68207,US,5265,JFK,3797,ANU,2874,738,John F Kennedy International Airport,New York,United States,V.C. Bird International Airport,Antigua,Antigua and Barbuda,US Airways,U S AIR
+68208,US,5265,JFK,3797,AUS,3673,738,John F Kennedy International Airport,New York,United States,Austin Bergstrom International Airport,Austin,United States,US Airways,U S AIR
+68209,US,5265,JFK,3797,BCN,1218,763,John F Kennedy International Airport,New York,United States,Barcelona International Airport,Barcelona,Spain,US Airways,U S AIR
+68210,US,5265,JFK,3797,BDA,4069,738,John F Kennedy International Airport,New York,United States,L.F. Wade International International Airport,Bermuda,Bermuda,US Airways,U S AIR
+68211,US,5265,JFK,3797,BNA,3690,ER4,John F Kennedy International Airport,New York,United States,Nashville International Airport,Nashville,United States,US Airways,U S AIR
+68212,US,5265,JFK,3797,BOG,2709,319,John F Kennedy International Airport,New York,United States,El Dorado International Airport,Bogota,Colombia,US Airways,U S AIR
+68213,US,5265,JFK,3797,BOS,3448,738,John F Kennedy International Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,US Airways,U S AIR
+68214,US,5265,JFK,3797,BWI,3849,ER4,John F Kennedy International Airport,New York,United States,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,US Airways,U S AIR
+68215,US,5265,JFK,3797,CDG,1382,763 757,John F Kennedy International Airport,New York,United States,Charles de Gaulle International Airport,Paris,France,US Airways,U S AIR
+68216,US,5265,JFK,3797,CLE,3486,ER4,John F Kennedy International Airport,New York,United States,Cleveland Hopkins International Airport,Cleveland,United States,US Airways,U S AIR
+68217,US,5265,JFK,3797,CLT,3876,321 319,John F Kennedy International Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,US Airways,U S AIR
+68218,US,5265,JFK,3797,CMH,3759,CR7,John F Kennedy International Airport,New York,United States,John Glenn Columbus International Airport,Columbus,United States,US Airways,U S AIR
+68219,US,5265,JFK,3797,CUN,1852,738,John F Kennedy International Airport,New York,United States,Cancún International Airport,Cancun,Mexico,US Airways,U S AIR
+68220,US,5265,JFK,3797,CVG,3488,ER4,John F Kennedy International Airport,New York,United States,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,US Airways,U S AIR
+68221,US,5265,JFK,3797,DCA,3520,738,John F Kennedy International Airport,New York,United States,Ronald Reagan Washington National Airport,Washington,United States,US Airways,U S AIR
+68222,US,5265,JFK,3797,DFW,3670,738 757,John F Kennedy International Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,US Airways,U S AIR
+68223,US,5265,JFK,3797,DUB,599,757,John F Kennedy International Airport,New York,United States,Dublin Airport,Dublin,Ireland,US Airways,U S AIR
+68224,US,5265,JFK,3797,FCO,1555,763,John F Kennedy International Airport,New York,United States,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,US Airways,U S AIR
+68225,US,5265,JFK,3797,FRA,340,388,John F Kennedy International Airport,New York,United States,Frankfurt am Main Airport,Frankfurt,Germany,US Airways,U S AIR
+68226,US,5265,JFK,3797,GIG,2560,763,John F Kennedy International Airport,New York,United States,Rio Galeão – Tom Jobim International Airport,Rio De Janeiro,Brazil,US Airways,U S AIR
+68227,US,5265,JFK,3797,GRU,2564,77W 777,John F Kennedy International Airport,New York,United States,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,US Airways,U S AIR
+68228,US,5265,JFK,3797,IND,3585,ER4,John F Kennedy International Airport,New York,United States,Indianapolis International Airport,Indianapolis,United States,US Airways,U S AIR
+68229,US,5265,JFK,3797,IST,1701,330 77W,John F Kennedy International Airport,New York,United States,Istanbul Airport,Istanbul,Turkey,US Airways,U S AIR
+68230,US,5265,JFK,3797,JNB,813,346,John F Kennedy International Airport,New York,United States,OR Tambo International Airport,Johannesburg,South Africa,US Airways,U S AIR
+68231,US,5265,JFK,3797,LAS,3877,738,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,US Airways,U S AIR
+68232,US,5265,JFK,3797,LAX,3484,32B 762,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,US Airways,U S AIR
+68233,US,5265,JFK,3797,LHR,507,77W,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,US Airways,U S AIR
+68234,US,5265,JFK,3797,MAD,1229,757,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,US Airways,U S AIR
+68235,US,5265,JFK,3797,MAN,478,757,John F Kennedy International Airport,New York,United States,Manchester Airport,Manchester,United Kingdom,US Airways,U S AIR
+68236,US,5265,JFK,3797,MCO,3878,763 757,John F Kennedy International Airport,New York,United States,Orlando International Airport,Orlando,United States,US Airways,U S AIR
+68237,US,5265,JFK,3797,MDE,2745,319,John F Kennedy International Airport,New York,United States,Jose Maria Córdova International Airport,Rio Negro,Colombia,US Airways,U S AIR
+68238,US,5265,JFK,3797,MIA,3576,757 738,John F Kennedy International Airport,New York,United States,Miami International Airport,Miami,United States,US Airways,U S AIR
+68239,US,5265,JFK,3797,MXP,1524,763,John F Kennedy International Airport,New York,United States,Malpensa International Airport,Milano,Italy,US Airways,U S AIR
+68240,US,5265,JFK,3797,ORD,3830,738,John F Kennedy International Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,US Airways,U S AIR
+68241,US,5265,JFK,3797,ORF,3611,ER4,John F Kennedy International Airport,New York,United States,Norfolk International Airport,Norfolk,United States,US Airways,U S AIR
+68242,US,5265,JFK,3797,PEK,3364,773,John F Kennedy International Airport,New York,United States,Beijing Capital International Airport,Beijing,China,US Airways,U S AIR
+68243,US,5265,JFK,3797,PHX,3462,321,John F Kennedy International Airport,New York,United States,Phoenix Sky Harbor International Airport,Phoenix,United States,US Airways,U S AIR
+68244,US,5265,JFK,3797,PIT,3570,ER4,John F Kennedy International Airport,New York,United States,Pittsburgh International Airport,Pittsburgh,United States,US Airways,U S AIR
+68245,US,5265,JFK,3797,RDU,3626,ERD CR7,John F Kennedy International Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,US Airways,U S AIR
+68246,US,5265,JFK,3797,SAL,1892,320,John F Kennedy International Airport,New York,United States,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,US Airways,U S AIR
+68247,US,5265,JFK,3797,SAN,3731,738,John F Kennedy International Airport,New York,United States,San Diego International Airport,San Diego,United States,US Airways,U S AIR
+68248,US,5265,JFK,3797,SEA,3577,738,John F Kennedy International Airport,New York,United States,Seattle Tacoma International Airport,Seattle,United States,US Airways,U S AIR
+68249,US,5265,JFK,3797,SFO,3469,32B 763,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68250,US,5265,JFK,3797,SJO,1885,738,John F Kennedy International Airport,New York,United States,Juan Santamaria International Airport,San Jose,Costa Rica,US Airways,U S AIR
+68251,US,5265,JFK,3797,SJU,2890,757,John F Kennedy International Airport,New York,United States,Luis Munoz Marin International Airport,San Juan,Puerto Rico,US Airways,U S AIR
+68252,US,5265,JFK,3797,STT,2883,757,John F Kennedy International Airport,New York,United States,Cyril E. King Airport,St. Thomas,Virgin Islands,US Airways,U S AIR
+68253,US,5265,JFK,3797,SXM,2899,757,John F Kennedy International Airport,New York,United States,Princess Juliana International Airport,Philipsburg,Netherlands Antilles,US Airways,U S AIR
+68254,US,5265,JFK,3797,TPA,3646,CR7,John F Kennedy International Airport,New York,United States,Tampa International Airport,Tampa,United States,US Airways,U S AIR
+68255,US,5265,JFK,3797,YUL,146,ERD,John F Kennedy International Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,US Airways,U S AIR
+68256,US,5265,JFK,3797,YYZ,193,CR7,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,US Airways,U S AIR
+68257,US,5265,JFK,3797,ZRH,1678,763,John F Kennedy International Airport,New York,United States,Zürich Airport,Zurich,Switzerland,US Airways,U S AIR
+68325,US,5265,LAX,3484,SFO,3469,738,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68342,US,5265,LGA,3697,BNA,3690,CR7,La Guardia Airport,New York,United States,Nashville International Airport,Nashville,United States,US Airways,U S AIR
+68343,US,5265,LGA,3697,BOS,3448,319 E90,La Guardia Airport,New York,United States,General Edward Lawrence Logan International Airport,Boston,United States,US Airways,U S AIR
+68344,US,5265,LGA,3697,CHO,4015,ERD,La Guardia Airport,New York,United States,Charlottesville Albemarle Airport,Charlottesville VA,United States,US Airways,U S AIR
+68345,US,5265,LGA,3697,CLT,3876,321 319 320,La Guardia Airport,New York,United States,Charlotte Douglas International Airport,Charlotte,United States,US Airways,U S AIR
+68346,US,5265,LGA,3697,CMH,3759,CR7 ERD,La Guardia Airport,New York,United States,John Glenn Columbus International Airport,Columbus,United States,US Airways,U S AIR
+68347,US,5265,LGA,3697,DAY,3627,ERD,La Guardia Airport,New York,United States,James M Cox Dayton International Airport,Dayton,United States,US Airways,U S AIR
+68348,US,5265,LGA,3697,DCA,3520,319 E90,La Guardia Airport,New York,United States,Ronald Reagan Washington National Airport,Washington,United States,US Airways,U S AIR
+68349,US,5265,LGA,3697,DFW,3670,738,La Guardia Airport,New York,United States,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,US Airways,U S AIR
+68350,US,5265,LGA,3697,DTW,3645,CR7,La Guardia Airport,New York,United States,Detroit Metropolitan Wayne County Airport,Detroit,United States,US Airways,U S AIR
+68351,US,5265,LGA,3697,GSO,4008,ERD,La Guardia Airport,New York,United States,Piedmont Triad International Airport,Greensboro,United States,US Airways,U S AIR
+68352,US,5265,LGA,3697,ILM,3845,ERD,La Guardia Airport,New York,United States,Wilmington International Airport,Wilmington,United States,US Airways,U S AIR
+68353,US,5265,LGA,3697,LIT,3660,CR7,La Guardia Airport,New York,United States,Bill & Hillary Clinton National Airport/Adams Field,Little Rock,United States,US Airways,U S AIR
+68354,US,5265,LGA,3697,MIA,3576,738,La Guardia Airport,New York,United States,Miami International Airport,Miami,United States,US Airways,U S AIR
+68355,US,5265,LGA,3697,ORD,3830,738,La Guardia Airport,New York,United States,Chicago O'Hare International Airport,Chicago,United States,US Airways,U S AIR
+68356,US,5265,LGA,3697,ORF,3611,ERD,La Guardia Airport,New York,United States,Norfolk International Airport,Norfolk,United States,US Airways,U S AIR
+68357,US,5265,LGA,3697,PBI,3722,738,La Guardia Airport,New York,United States,Palm Beach International Airport,West Palm Beach,United States,US Airways,U S AIR
+68358,US,5265,LGA,3697,PHL,3752,E90 319,La Guardia Airport,New York,United States,Philadelphia International Airport,Philadelphia,United States,US Airways,U S AIR
+68359,US,5265,LGA,3697,PIT,3570,CRJ E75,La Guardia Airport,New York,United States,Pittsburgh International Airport,Pittsburgh,United States,US Airways,U S AIR
+68360,US,5265,LGA,3697,RDU,3626,ERD CR7,La Guardia Airport,New York,United States,Raleigh Durham International Airport,Raleigh-durham,United States,US Airways,U S AIR
+68361,US,5265,LGA,3697,RIC,3608,ERD,La Guardia Airport,New York,United States,Richmond International Airport,Richmond,United States,US Airways,U S AIR
+68362,US,5265,LGA,3697,ROA,4016,ERD,La Guardia Airport,New York,United States,Roanoke–Blacksburg Regional Airport,Roanoke VA,United States,US Airways,U S AIR
+68363,US,5265,LGA,3697,SDF,4014,ERD,La Guardia Airport,New York,United States,Louisville International Standiford Field,Louisville,United States,US Airways,U S AIR
+68364,US,5265,LGA,3697,STL,3678,CR7,La Guardia Airport,New York,United States,St Louis Lambert International Airport,St. Louis,United States,US Airways,U S AIR
+68365,US,5265,LGA,3697,TYS,3676,ERD,La Guardia Airport,New York,United States,McGhee Tyson Airport,Knoxville,United States,US Airways,U S AIR
+68366,US,5265,LGA,3697,XNA,4356,CR7,La Guardia Airport,New York,United States,Northwest Arkansas Regional Airport,Bentonville,United States,US Airways,U S AIR
+68367,US,5265,LGA,3697,YUL,146,ERD,La Guardia Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,US Airways,U S AIR
+68368,US,5265,LGA,3697,YYZ,193,CR7,La Guardia Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,US Airways,U S AIR
+68567,US,5265,MIA,3576,SFO,3469,763 757 738,Miami International Airport,Miami,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68761,US,5265,ORD,3830,SFO,3469,738,Chicago O'Hare International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68806,US,5265,PEK,3364,SFO,3469,773,Beijing Capital International Airport,Beijing,China,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68910,US,5265,PHL,3752,SFO,3469,320 321,Philadelphia International Airport,Philadelphia,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+68988,US,5265,PHX,3462,SFO,3469,320 321,Phoenix Sky Harbor International Airport,Phoenix,United States,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+69099,US,5265,SAL,1892,SFO,3469,319 320,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+69254,US,5265,TPE,2276,SFO,3469,77W,Taiwan Taoyuan International Airport,Taipei,Taiwan,San Francisco International Airport,San Francisco,United States,US Airways,U S AIR
+69397,UX,90,JFK,3797,MAD,1229,332,John F Kennedy International Airport,New York,United States,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,Air Europa,EUROPA
+71355,VS,5347,ATL,3682,SFO,3469,763 739 757,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,Virgin Atlantic Airways,VIRGIN
+71400,VS,5347,JFK,3797,ATL,3682,752 319 738 757 M88,John F Kennedy International Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Virgin Atlantic Airways,VIRGIN
+71401,VS,5347,JFK,3797,LHR,507,333 346 744,John F Kennedy International Airport,New York,United States,London Heathrow Airport,London,United Kingdom,Virgin Atlantic Airways,VIRGIN
+71402,VS,5347,JFK,3797,MSY,3861,CR9,John F Kennedy International Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,Virgin Atlantic Airways,VIRGIN
+71442,VS,5347,LHR,507,SFO,3469,744,London Heathrow Airport,London,United Kingdom,San Francisco International Airport,San Francisco,United States,Virgin Atlantic Airways,VIRGIN
+71641,VX,5331,AUS,3673,SFO,3469,319,Austin Bergstrom International Airport,Austin,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71643,VX,5331,BOS,3448,SFO,3469,320,General Edward Lawrence Logan International Airport,Boston,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71645,VX,5331,CUN,1852,SFO,3469,320,Cancún International Airport,Cancun,Mexico,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71646,VX,5331,DCA,3520,SFO,3469,320,Ronald Reagan Washington National Airport,Washington,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71648,VX,5331,DFW,3670,SFO,3469,319 320,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71650,VX,5331,EWR,3494,SFO,3469,320,Newark Liberty International Airport,Newark,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71652,VX,5331,FLL,3533,SFO,3469,320,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71654,VX,5331,IAD,3714,SFO,3469,319 320,Washington Dulles International Airport,Washington,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71655,VX,5331,JFK,3797,LAS,3877,320,John F Kennedy International Airport,New York,United States,McCarran International Airport,Las Vegas,United States,Virgin America,REDWOOD
+71656,VX,5331,JFK,3797,LAX,3484,320,John F Kennedy International Airport,New York,United States,Los Angeles International Airport,Los Angeles,United States,Virgin America,REDWOOD
+71657,VX,5331,JFK,3797,SFO,3469,320,John F Kennedy International Airport,New York,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71660,VX,5331,LAS,3877,SFO,3469,320 319,McCarran International Airport,Las Vegas,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71673,VX,5331,LAX,3484,SFO,3469,320 319,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71676,VX,5331,MCO,3878,SFO,3469,320,Orlando International Airport,Orlando,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71678,VX,5331,ORD,3830,SFO,3469,320,Chicago O'Hare International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71679,VX,5331,PDX,3720,SFO,3469,320,Portland International Airport,Portland,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71681,VX,5331,PHL,3752,SFO,3469,319,Philadelphia International Airport,Philadelphia,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71682,VX,5331,PVR,1836,SFO,3469,320,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71683,VX,5331,SAN,3731,SFO,3469,319 320,San Diego International Airport,San Diego,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71685,VX,5331,SEA,3577,SFO,3469,319 320,Seattle Tacoma International Airport,Seattle,United States,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+71706,VX,5331,SJD,1840,SFO,3469,320,Los Cabos International Airport,San Jose Del Cabo,Mexico,San Francisco International Airport,San Francisco,United States,Virgin America,REDWOOD
+72679,W3,20976,JFK,3797,LOS,273,345,John F Kennedy International Airport,New York,United States,Murtala Muhammed International Airport,Lagos,Nigeria,Arik Air,ARIK AIR
+72680,W3,20976,JFK,3797,LOS,273,345,John F Kennedy International Airport,New York,United States,Murtala Muhammed International Airport,Lagos,Nigeria,World Scale Airlines,
+73729,WN,4547,ATL,3682,SFO,3469,73W,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+73994,WN,4547,DEN,3751,SFO,3469,73W,Denver International Airport,Denver,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74209,WN,4547,LAS,3877,SFO,3469,733 73W 73H 73C,McCarran International Airport,Las Vegas,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74235,WN,4547,LAX,3484,SFO,3469,73W 73C 733,Los Angeles International Airport,Los Angeles,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74244,WN,4547,LGA,3697,ATL,3682,73W,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,Southwest Airlines,SOUTHWEST
+74245,WN,4547,LGA,3697,BNA,3690,73W,La Guardia Airport,New York,United States,Nashville International Airport,Nashville,United States,Southwest Airlines,SOUTHWEST
+74246,WN,4547,LGA,3697,CAK,4112,73W,La Guardia Airport,New York,United States,Akron Canton Regional Airport,Akron,United States,Southwest Airlines,SOUTHWEST
+74247,WN,4547,LGA,3697,DEN,3751,73W,La Guardia Airport,New York,United States,Denver International Airport,Denver,United States,Southwest Airlines,SOUTHWEST
+74248,WN,4547,LGA,3697,HOU,3566,73W,La Guardia Airport,New York,United States,William P Hobby Airport,Houston,United States,Southwest Airlines,SOUTHWEST
+74249,WN,4547,LGA,3697,MDW,3747,73H 73W,La Guardia Airport,New York,United States,Chicago Midway International Airport,Chicago,United States,Southwest Airlines,SOUTHWEST
+74250,WN,4547,LGA,3697,MKE,3717,73W,La Guardia Airport,New York,United States,General Mitchell International Airport,Milwaukee,United States,Southwest Airlines,SOUTHWEST
+74251,WN,4547,LGA,3697,STL,3678,73W,La Guardia Airport,New York,United States,St Louis Lambert International Airport,St. Louis,United States,Southwest Airlines,SOUTHWEST
+74381,WN,4547,MDW,3747,SFO,3469,73W,Chicago Midway International Airport,Chicago,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74414,WN,4547,MKE,3717,SFO,3469,73W,General Mitchell International Airport,Milwaukee,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74553,WN,4547,PHX,3462,SFO,3469,73W 733,Phoenix Sky Harbor International Airport,Phoenix,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74636,WN,4547,SAN,3731,SFO,3469,73W 73C 733,San Diego International Airport,San Diego,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74728,WN,4547,SNA,3867,SFO,3469,73W,John Wayne Airport-Orange County Airport,Santa Ana,United States,San Francisco International Airport,San Francisco,United States,Southwest Airlines,SOUTHWEST
+74843,WS,5416,JFK,3797,YUL,146,ERJ CRJ,John F Kennedy International Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,WestJet,WESTJET
+74844,WS,5416,JFK,3797,YYC,178,736,John F Kennedy International Airport,New York,United States,Calgary International Airport,Calgary,Canada,WestJet,WESTJET
+74845,WS,5416,JFK,3797,YYZ,193,CRJ CR7 ERJ,John F Kennedy International Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,WestJet,WESTJET
+74861,WS,5416,LGA,3697,ATL,3682,M88 757 320 738 739 73W,La Guardia Airport,New York,United States,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,WestJet,WESTJET
+74862,WS,5416,LGA,3697,MSY,3861,319 CR9,La Guardia Airport,New York,United States,Louis Armstrong New Orleans International Airport,New Orleans,United States,WestJet,WESTJET
+74863,WS,5416,LGA,3697,YHZ,73,CR7,La Guardia Airport,New York,United States,Halifax / Stanfield International Airport,Halifax,Canada,WestJet,WESTJET
+74864,WS,5416,LGA,3697,YUL,146,ERJ CR7,La Guardia Airport,New York,United States,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,WestJet,WESTJET
+74865,WS,5416,LGA,3697,YYZ,193,736 73W,La Guardia Airport,New York,United States,Lester B. Pearson International Airport,Toronto,Canada,WestJet,WESTJET
+75014,WS,5416,YVR,156,SFO,3469,73W,Vancouver International Airport,Vancouver,Canada,San Francisco International Airport,San Francisco,United States,WestJet,WESTJET
+75066,WS,5416,YYC,178,SFO,3469,73W,Calgary International Airport,Calgary,Canada,San Francisco International Airport,San Francisco,United States,WestJet,WESTJET
+75697,XL,1034,JFK,3797,GYE,2673,763,John F Kennedy International Airport,New York,United States,José Joaquín de Olmedo International Airport,Guayaquil,Ecuador,Aerolane,LAN ECUADOR
