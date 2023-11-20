@@ -66,7 +66,7 @@ df_merged_destination = df_merged_destination.rename(columns={'City': 'Dest City
 df_merged_airline = pd.merge(df_merged_destination, df_airlines,
                              how='left', left_on='Airline',
                              right_on='Airline IATA')
-df_merged_airline = df_merged_airline.rename(columns={'Name': 'Aircraft Name'})
+df_merged_airline = df_merged_airline.rename(columns={'Name': 'Carrier'})
 
 df_merged_flights = df_merged_airline.drop(columns=['Airline IATA', 'ICAO',
                                                     'Active', 'Country', 'Src IATA', 'Dest IATA'])
@@ -110,7 +110,7 @@ for index, row in multiple_equip.iterrows():
             'Dest Latitude': row['Dest Latitude'], 'Dest Longitude': row['Dest Longitude'],
             'Dest Altitude': row['Dest Altitude'], 'Dest Timezone': row['Dest Timezone'],
             'Dest DST': row['Dest DST'], 'Dest Timezone Name': row['Dest Timezone Name'],
-            'Aircraft Name': row['Aircraft Name'], 'Callsign': row['Callsign']
+            'Carrier': row['Carrier'], 'Callsign': row['Callsign']
         }
 
         # Append the new row to the list
@@ -127,9 +127,9 @@ df_merged_flights = df_merged_flights._append(new_rows, ignore_index=True)
 
 df_merged_carrier = pd.merge(df_merged_flights, plane_data,
                              how='left', left_on='Equipment',
-                             right_on='Carrier_IATA')
+                             right_on='Airline_IATA')
 
-df_merged_carrier = df_merged_carrier.drop(columns=['Carrier_IATA', 'Carrier_ICAO'])
+df_merged_carrier = df_merged_carrier.drop(columns=['Airline_IATA', 'Airline_ICAO'])
 
 df_possible_flights = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") |
                               df_merged_carrier["Dest City"].str.contains("San Francisco")]
