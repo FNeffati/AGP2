@@ -134,9 +134,10 @@ df_merged_carrier = df_merged_carrier.drop(columns=['Airline_IATA', 'Airline_ICA
 df_possible_flights = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") |
                               df_merged_carrier["Dest City"].str.contains("San Francisco")]
 
+df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
 # TEST: look at all direct flights
-direct_df = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") &
-                              df_merged_carrier["Dest City"].str.contains("San Francisco")]
+direct_df = df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
+                              df_possible_flights["Dest City"].str.contains("San Francisco")]
 # Display the result
 # pd.set_option('display.max_columns', None)
 print(direct_df)
