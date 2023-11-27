@@ -136,14 +136,14 @@ df_possible_flights = df_merged_carrier[df_merged_carrier["Src City"].str.contai
 
 df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
 # TEST: look at all direct flights
-direct_df = df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
-                              df_possible_flights["Dest City"].str.contains("San Francisco")]
-# Display the result
+direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
+                              df_possible_flights["Dest City"].str.contains("San Francisco")])
+# # Display the result
 # pd.set_option('display.max_columns', None)
-print(direct_df)
+# print(direct_df)
 
-# # Creates a csv file to look at the df_merged_airline dataframe
-filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
-filepath.parent.mkdir(parents=True, exist_ok=True)
-df_possible_flights.to_csv(filepath)
+# # # Creates a csv file to look at the df_merged_airline dataframe
+# filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
+# filepath.parent.mkdir(parents=True, exist_ok=True)
+# df_possible_flights.to_csv(filepath)
 
