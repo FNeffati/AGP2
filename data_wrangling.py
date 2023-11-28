@@ -6,11 +6,12 @@ from carrier_file import plane_data
 file_path_route = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/routes.csv'
 file_path_airport = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/airports.csv'
 file_path_airlines = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/airlines.csv'
-
+file_path_pass_capacity = "/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/Passenger_Capacities.csv"
 # setting up a pandas df for both csv file
 df_route = pd.read_csv(file_path_route)
 df_airport = pd.read_csv(file_path_airport)
 df_airlines = pd.read_csv(file_path_airlines)
+df_passenger_cap = pd.read_csv(file_path_pass_capacity)
 
 # Filling missing values in 'IATA' with corresponding values from 'ICAO'
 df_airlines['IATA'] = df_airlines['IATA'].fillna(df_airlines['ICAO'])
@@ -66,7 +67,7 @@ df_merged_destination = df_merged_destination.rename(columns={'City': 'Dest City
 df_merged_airline = pd.merge(df_merged_destination, df_airlines,
                              how='left', left_on='Airline',
                              right_on='Airline IATA')
-df_merged_airline = df_merged_airline.rename(columns={'Name': 'Aircraft Name'})
+df_merged_airline = df_merged_airline.rename(columns={'Name': 'Carrier'})
 
 df_merged_flights = df_merged_airline.drop(columns=['Airline IATA', 'ICAO',
                                                     'Active', 'Country', 'Src IATA', 'Dest IATA'])
@@ -110,7 +111,7 @@ for index, row in multiple_equip.iterrows():
             'Dest Latitude': row['Dest Latitude'], 'Dest Longitude': row['Dest Longitude'],
             'Dest Altitude': row['Dest Altitude'], 'Dest Timezone': row['Dest Timezone'],
             'Dest DST': row['Dest DST'], 'Dest Timezone Name': row['Dest Timezone Name'],
-            'Aircraft Name': row['Aircraft Name'], 'Callsign': row['Callsign']
+            'Carrier': row['Carrier'], 'Callsign': row['Callsign']
         }
 
         # Append the new row to the list
@@ -127,22 +128,28 @@ df_merged_flights = df_merged_flights._append(new_rows, ignore_index=True)
 
 df_merged_carrier = pd.merge(df_merged_flights, plane_data,
                              how='left', left_on='Equipment',
-                             right_on='Carrier_IATA')
+                             right_on='Airline_IATA')
 
-df_merged_carrier = df_merged_carrier.drop(columns=['Carrier_IATA', 'Carrier_ICAO'])
+df_merged_carrier = df_merged_carrier.drop(columns=['Airline_IATA', 'Airline_ICAO'])
+#
+df_merged_passenger = pd.merge(df_merged_carrier, df_passenger_cap,
+                                 how='left', left_on='Airline_Name',
+                                 right_on='Aircraft')
 
 df_possible_flights = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") |
                               df_merged_carrier["Dest City"].str.contains("San Francisco")]
 
+# df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
 # TEST: look at all direct flights
-direct_df = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") &
-                              df_merged_carrier["Dest City"].str.contains("San Francisco")]
-# Display the result
-# pd.set_option('display.max_columns', None)
-print(direct_df)
+# direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
+#                               df_possible_flights["Dest City"].str.contains("San Francisco")])
 
-# # Creates a csv file to look at the df_merged_airline dataframe
-filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
-filepath.parent.mkdir(parents=True, exist_ok=True)
-df_possible_flights.to_csv(filepath)
+# # Display the result
+# pd.set_option('display.max_columns', None)
+# print(direct_df)
+
+# Creates a csv file to look at the df_merged_airline dataframe
+# filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/total_flights_df.csv')
+# filepath.parent.mkdir(parents=True, exist_ok=True)
+# df_possible_flights.to_csv(filepath)
 
