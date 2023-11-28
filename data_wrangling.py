@@ -6,11 +6,12 @@ from carrier_file import plane_data
 file_path_route = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/routes.csv'
 file_path_airport = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/airports.csv'
 file_path_airlines = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/airlines.csv'
-
+file_path_pass_capacity = "/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/Passenger_Capacities.csv"
 # setting up a pandas df for both csv file
 df_route = pd.read_csv(file_path_route)
 df_airport = pd.read_csv(file_path_airport)
 df_airlines = pd.read_csv(file_path_airlines)
+df_passenger_cap = pd.read_csv(file_path_pass_capacity)
 
 # Filling missing values in 'IATA' with corresponding values from 'ICAO'
 df_airlines['IATA'] = df_airlines['IATA'].fillna(df_airlines['ICAO'])
@@ -130,20 +131,25 @@ df_merged_carrier = pd.merge(df_merged_flights, plane_data,
                              right_on='Airline_IATA')
 
 df_merged_carrier = df_merged_carrier.drop(columns=['Airline_IATA', 'Airline_ICAO'])
+#
+df_merged_passenger = pd.merge(df_merged_carrier, df_passenger_cap,
+                                 how='left', left_on='Airline_Name',
+                                 right_on='Aircraft')
 
 df_possible_flights = df_merged_carrier[df_merged_carrier["Src City"].str.contains("New York") |
                               df_merged_carrier["Dest City"].str.contains("San Francisco")]
 
-df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
+# df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
 # TEST: look at all direct flights
-direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
-                              df_possible_flights["Dest City"].str.contains("San Francisco")])
+# direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
+#                               df_possible_flights["Dest City"].str.contains("San Francisco")])
+
 # # Display the result
 # pd.set_option('display.max_columns', None)
 # print(direct_df)
 
-# # # Creates a csv file to look at the df_merged_airline dataframe
-# filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/df_possible_flights.csv')
+# Creates a csv file to look at the df_merged_airline dataframe
+# filepath = Path('/Users/yuhanburgess/Documents/GitHub/AGP2/total_flights_df.csv')
 # filepath.parent.mkdir(parents=True, exist_ok=True)
 # df_possible_flights.to_csv(filepath)
 
