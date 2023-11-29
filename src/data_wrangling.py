@@ -3,10 +3,10 @@ from pathlib import Path  # used to create csv file from pandas df
 from carrier_file import plane_data
 
 # change file path to your local device
-file_path_route = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/routes.csv'
-file_path_airport = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/airports.csv'
-file_path_airlines = '/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/airlines.csv'
-file_path_pass_capacity = "/Users/yuhanburgess/Documents/GitHub/AGP2/dataset/Passenger_Capacities.csv"
+file_path_route = '/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/routes.csv'
+file_path_airport = '/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/airports.csv'
+file_path_airlines = '/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/airlines.csv'
+file_path_pass_capacity = "/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/Passenger_Capacities.csv"
 # setting up a pandas df for both csv file
 df_route = pd.read_csv(file_path_route)
 df_airport = pd.read_csv(file_path_airport)
