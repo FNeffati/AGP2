@@ -84,9 +84,9 @@ def ford_fulkerson(graph, sources, terminals):
 
 
 # Example usage
-# df = df_possible_flights
-# airports = sorted(set(df["Source Airport"]).union(set(df["Destination Airport"])))
-# print(airports)
-# adjacency_matrix, sources, sinks = create_matrix(df_possible_flights, airports)
+df = df_possible_flights
+airports = sorted(set(df["Source Airport"]).union(set(df["Destination Airport"])))
+print(airports)
+adjacency_matrix, sources, sinks = create_matrix(df_possible_flights, airports)
 
-# ford_fulkerson(adjacency_matrix, sources, sinks)
+ford_fulkerson(adjacency_matrix, sources, sinks)
