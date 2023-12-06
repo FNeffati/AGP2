@@ -3,10 +3,10 @@ from pathlib import Path  # used to create csv file from pandas df
 from carrier_file import plane_data
 
 # change file path to your local device
-file_path_route = '../csv_files/routes.csv'
-file_path_airport = '../csv_files/airports.csv'
-file_path_airlines = '../csv_files/airlines.csv'
-file_path_pass_capacity = "../csv_files/Passenger_Capacities.csv"
+file_path_route = '/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/routes.csv'
+file_path_airport = '/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/airports.csv'
+file_path_airlines = '/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/airlines.csv'
+file_path_pass_capacity = "/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/Passenger_Capacities.csv"
 # setting up a pandas df for both csv file
 df_route = pd.read_csv(file_path_route)
 df_airport = pd.read_csv(file_path_airport)
@@ -139,13 +139,13 @@ df_merged_passenger = pd.merge(df_merged_carrier, df_passenger_cap,
 df_possible_flights = df_merged_passenger[df_merged_passenger["Src City"].str.contains("New York") |
                                           df_merged_passenger["Dest City"].str.contains("San Francisco")]
 
-df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
+df_possible_flights = df_merged_passenger.dropna(subset=['Airline_Name'])
 # # TEST: look at all direct flights
 # direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
 #                               df_possible_flights["Dest City"].str.contains("San Francisco")])
-#
+
 # # Display the result
-# # pd.set_option('display.max_columns', None)
+# pd.set_option('display.max_columns', None)
 # print(direct_df)
 
 # # Creates a csv file to look at the df_merged_airline dataframe

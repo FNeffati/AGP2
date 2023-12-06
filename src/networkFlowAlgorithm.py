@@ -1,4 +1,5 @@
 from collections import deque
+import pandas as pd
 import numpy as np
 from AdjacencyMatrix import create_matrix
 from data_wrangling import df_possible_flights
@@ -12,7 +13,7 @@ def ford_fulkerson(graph, sources, terminals):
         # Initialize min_capacity to an infinitely large number
         # this is similar to the relaxing schema seen in the Bellman-Ford Algorithm
         min_capacity = float('inf')
-
+        
         # go through path array
         for i in range(len(path) - 1):
             # find the minimum capacity between the airports
@@ -86,7 +87,11 @@ def ford_fulkerson(graph, sources, terminals):
 # Example usage
 df = df_possible_flights
 airports = sorted(set(df["Source Airport"]).union(set(df["Destination Airport"])))
-print(airports)
+
 adjacency_matrix, sources, sinks = create_matrix(df_possible_flights, airports)
 
 ford_fulkerson(adjacency_matrix, sources, sinks)
+# adjacency_df = pd.DataFrame(adjacency_matrix, columns=airports, index=airports)
+
+# csv_file_path = "/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/total_max_flight_capacity_matrix.csv"
+# adjacency_df.to_csv(csv_file_path, index=True, header=True)

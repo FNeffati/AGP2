@@ -13,7 +13,8 @@ def create_matrix(df, airports):
     for index, row in df.iterrows():
         source_index = airports.index(row["Source Airport"])
         dest_index = airports.index(row["Destination Airport"])
-        adjacency_matrix[source_index][dest_index] = row["Passengers"]
+        if adjacency_matrix[source_index][dest_index] < row["Passengers"]:
+            adjacency_matrix[source_index][dest_index] = row["Passengers"]
 
     source = [airports.index('JFK'), airports.index('LGA')]
     sink = [airports.index('SFO')]
