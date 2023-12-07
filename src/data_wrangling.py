@@ -139,7 +139,7 @@ df_merged_passenger = pd.merge(df_merged_carrier, df_passenger_cap,
 df_possible_flights = df_merged_passenger[df_merged_passenger["Src City"].str.contains("New York") |
                                           df_merged_passenger["Dest City"].str.contains("San Francisco")]
 
-df_possible_flights = df_merged_passenger.dropna(subset=['Airline_Name'])
+df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
 # # TEST: look at all direct flights
 # direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
 #                               df_possible_flights["Dest City"].str.contains("San Francisco")])
