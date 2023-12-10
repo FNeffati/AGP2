@@ -99,12 +99,12 @@ def ford_fulkerson(graph, sources, terminals, airports):
         # printing out reach route
         print()
         print("----------------------------------------------------------------------")
-        print(f"Flight Route: {[airports[node] for node in augmenting_path]}, "
-              f"Direct: {direct}, "
-              f"Max Passenger Capacity: {route_min_capacity}, "
-              f"Max Flight Capacity: {aircraft_min_capcity}, "
-              f"Total Distance: {round(total_distance, 2)}km, "
-              f"Flights: {flights_and_capacity}")
+        print(f"Flight Route: {[airports[node] for node in augmenting_path]} \n "
+              f"Direct: {direct} \n "
+              f"Max Passenger Capacity: {route_min_capacity} \n "
+              f"Max Flight Capacity: {aircraft_min_capcity} \n "
+              f"Total Distance: {round(total_distance, 2)}km \n "
+              f"Flights: {flights_and_capacity} \n ")
 
     print("----------------------------------------------------------------------")
 
