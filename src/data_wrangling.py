@@ -1,11 +1,25 @@
 import pandas as pd
 from carrier_file import plane_data
+import os
 
+
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the absolute path to the CSV file
+file_path_route = os.path.join(script_dir, '..', 'csv_files', 'routes.csv')
+file_path_airport = os.path.join(script_dir, '..', 'csv_files', 'airports.csv')
+file_path_airlines = os.path.join(script_dir, '..', 'csv_files', 'airlines.csv')
+file_path_pass_capacity = os.path.join(script_dir, '..', 'csv_files', 'Passenger_Capacities.csv')
+
+
+# Read the CSV file
+# plane_data = pd.read_csv(file_path, sep=',', header=None)
 # change file path to your local device
-file_path_route = '../csv_files/routes.csv'
-file_path_airport = '../csv_files/airports.csv'
-file_path_airlines = '../csv_files/airlines.csv'
-file_path_pass_capacity = "../csv_files/Passenger_Capacities.csv"
+# file_path_route = '../csv_files/routes.csv'
+# file_path_airport = '../csv_files/airports.csv'
+# file_path_airlines = '../csv_files/airlines.csv'
+# file_path_pass_capacity = "../csv_files/Passenger_Capacities.csv"
 # setting up a pandas df for both csv file
 df_route = pd.read_csv(file_path_route)
 df_airport = pd.read_csv(file_path_airport)
@@ -135,10 +149,7 @@ df_merged_passenger = pd.merge(df_merged_carrier, df_passenger_cap,
                                how='left', left_on='Airline_Name',
                                right_on='Aircraft')
 
-df_possible_flights = df_merged_passenger[df_merged_passenger["Src City"].str.contains("New York") |
-                                          df_merged_passenger["Dest City"].str.contains("San Francisco")]
-
-df_possible_flights = df_possible_flights.dropna(subset=['Airline_Name'])
+df_full = df_merged_passenger.dropna(subset=['Passengers'])
 # # TEST: look at all direct flights
 # direct_df = pd.DataFrame(df_possible_flights[df_possible_flights["Src City"].str.contains("New York") &
 #                               df_possible_flights["Dest City"].str.contains("San Francisco")])

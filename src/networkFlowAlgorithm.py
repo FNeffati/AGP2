@@ -1,34 +1,52 @@
 from collections import deque
 import pandas as pd
 import numpy as np
-from AdjacencyMatrix import create_matrix
-from data_wrangling import df_possible_flights
 
 
-def ford_fulkerson(graph, sources, terminals):
+def ford_fulkerson(graph, sources, terminals, airports):
     def residual_capacity(u, v):
-        return graph[u][v] - flow[u][v]
+        route_capacity = graph[u][v]['route_max_capacity'] - flow[u][v]
+        aircraft_capacity = graph[u][v]['aircraft_max_capacity'] - flow[u][v]
+        return route_capacity, aircraft_capacity
 
     def augment(path):
-        # Initialize min_capacity to an infinitely large number
-        # this is similar to the relaxing schema seen in the Bellman-Ford Algorithm
-        min_capacity = float('inf')
-        
-        # go through path array
-        for i in range(len(path) - 1):
-            # find the minimum capacity between the airports
-            min_capacity = min(min_capacity, residual_capacity(path[i], path[i + 1]))
+        # this will allow us to print the flights_info
+        flights_and_capacity = []
 
-        # update flow of the edges and reverse edges along the path
-        for i in range(len(path) - 1):
-            u, v = path[i], path[i + 1]
-            flow[u][v] += min_capacity # update augmenting path
-            flow[v][u] -= min_capacity # update flow on residual edges
-        return min_capacity
+        # total distance is initized as 0 for all flights 
+        total_distance = 0
 
+        #zip(path, path[1:]) helps when it looks something like [A, B, C] because it breakes it apart into
+        # [A,B] and [B,C] in which we can do the calculations associateed with each leg of the flight separately
+        #https://realpython.com/python-zip-function/
+        route_min_capacity, aircraft_min_capacity = zip(*[residual_capacity(u, v) for u, v in zip(path, path[1:])])
+            
+        # go through and adjust the flow based on the leg of the flight
+        # route_min_capcaity: contains the minimum route capacities for each segment of the path
+        # flight_min_capacity: contains the minimum flight capacities for each segment of the path
+        for u, v, route_min_cap, aircraft_min_cap in zip(path, path[1:], route_min_capacity, aircraft_min_capacity):
+            edge_info = graph[u][v] # getting information about the edge between the two nodes
+            total_distance += edge_info['distance'] # adding to distnace 
+
+            # we want to change the flow for the max passenger capcity for the route and the aircraft repectively
+            flow[u][v] += route_min_cap # heading towards sink (update the augmenting path)
+            flow[v][u] -= route_min_cap # heading back towards source (update flow on residual edges)
+            flow[u][v] += aircraft_min_cap # heading towards sink (update the augmenting path)
+            flow[v][u] -= aircraft_min_cap # heading back towards source (update flow on residual edges)
+
+        # we add the information form the flights info into the array
+        for u, v in zip(path, path[1:]):
+            flights_and_capacity.extend(graph[u][v]['flights'].items())
+
+        return min(route_min_capacity), min(aircraft_min_capacity), total_distance, flights_and_capacity
+
+    # the BFS utilizes queues to decrease the runtime 
     def bfs():
-        visited = [False] * len(graph) # similar to the color system, but using True/False instead
-        queue = deque(sources) # getting the first source in the list
+        # intializing an array that flags if a node has been visited
+        # similar to the color system, but using True/False instead
+        visited = [False] * len(graph) # getting the first source in the list
+        queue = deque(sources)
+
         for source in sources:
             visited[source] = True
 
@@ -42,16 +60,16 @@ def ford_fulkerson(graph, sources, terminals):
             u = queue.popleft()
             # go through the airports that are connected to the parent
             for v in range(len(graph)):
-                # if it hasn't been visited and it can  be augmented
-                if not visited[v] and residual_capacity(u, v) > 0:
+                route, aircraft = residual_capacity(u, v)
+                # if it hasn't been visited and it can be augmented
+                if not visited[v] and (route > 0 and aircraft > 0):
                     # add it to the queue
                     queue.append(v)
                     visited[v] = True
                     # set the u the parent of v
                     parent[v] = u
 
-                    # if v is a terminal then we will create a path for the
-                    # flight
+                    # if v is a terminal then we will create a path for the flight
                     if v in terminals:
                         path = []
                         # adding cities into the path
@@ -61,37 +79,38 @@ def ford_fulkerson(graph, sources, terminals):
                         return path
 
         return None
-
     # Initialize flow to zero
-    flow = np.zeros_like(graph)
+    flow = np.zeros_like(graph, dtype=int)
 
-    # Ford-Fulkerson algorithm
-    total_flow = 0
+    route_total_flow = 0
+    flight_total_flow = 0
+
+    # Ford-Fulkerson algorithm part of the code 
     while True:
+
         augmenting_path = bfs()
         if augmenting_path is None:
             break
-        min_capacity = augment(augmenting_path)
-        total_flow += min_capacity
+        route_min_capacity, aircraft_min_capcity, total_distance, flights_and_capacity = augment(augmenting_path)
+        route_total_flow += route_min_capacity# updating the total route flow
+        flight_total_flow += aircraft_min_capcity # updating the total flight flow
+        route = [airports[node] for node in augmenting_path]
+        direct = True if len(route) == 2 else False
+        # printing out reach route
+        print()
+        print("----------------------------------------------------------------------")
         print(f"Flight Route: {[airports[node] for node in augmenting_path]}, "
-              f"Maximum Passenger Capacity: {min_capacity}")
+              f"Direct: {direct}, "
+              f"Max Passenger Capacity: {route_min_capacity}, "
+              f"Max Flight Capacity: {aircraft_min_capcity}, "
+              f"Total Distance: {round(total_distance, 2)}km, "
+              f"Flights: {flights_and_capacity}")
+
+    print("----------------------------------------------------------------------")
 
     # Print the visited airports in the final path
     final_path = bfs()
     if final_path is not None:
         print("Final Path:", " --> ".join(airports[node] for node in final_path))
 
-    print("Max Flow:", total_flow)
-
-
-# Example usage
-df = df_possible_flights
-airports = sorted(set(df["Source Airport"]).union(set(df["Destination Airport"])))
-
-adjacency_matrix, sources, sinks = create_matrix(df_possible_flights, airports)
-
-ford_fulkerson(adjacency_matrix, sources, sinks)
-# adjacency_df = pd.DataFrame(adjacency_matrix, columns=airports, index=airports)
-
-# csv_file_path = "/Users/yuhanburgess/Documents/GitHub/AGP2/csv_files/total_max_flight_capacity_matrix.csv"
-# adjacency_df.to_csv(csv_file_path, index=True, header=True)
+    print("Max Route Flow:", route_total_flow, "  Max Flight Flow:", flight_total_flow)
